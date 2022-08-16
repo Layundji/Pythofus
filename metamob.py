@@ -19,7 +19,6 @@ class Metamob_API :
 
     Properties :
         - parent          (obj)  a parent class for object composition
-        - params          (dict) a parameters dictionnary for customization
         - verbose         (bool) make the manager speaking during processes
         - token_name      (str)  name a environmental variable holding the metamob API key
         - header          (dict) expected header for metamob GET request
