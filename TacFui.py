@@ -1,4 +1,4 @@
-import numpy as np
+import math
 
 
 
@@ -11,7 +11,7 @@ def CalcOptimalLock(dodge, init_p, final_p) :
     """
     tac = (init_p * (dodge+2))/((final_p+0.5)*2) -2
     if tac.is_integer() and final_p%2: tac+=1
-    tac = np.ceil(tac)
+    tac = math.ceil(tac)
     return int(tac)
 
 def CalcOptimalDodge(lock, init_p, final_p):
@@ -23,7 +23,7 @@ def CalcOptimalDodge(lock, init_p, final_p):
     """
     fui = (final_p-0.5)*(2*(lock+2))/(init_p) -2
     if fui.is_integer() and final_p%2 : fui += 1
-    fio = np.ceil(fui)
+    fio = math.ceil(fui)
     return int(fui)
 
 def CalcRemainingP(dodge, lock, init_p) :
@@ -34,7 +34,7 @@ def CalcRemainingP(dodge, lock, init_p) :
         - init_p (int) le nombre de points (action/mouvement) du fuyard
     """
     final_p = ((dodge+2)*init_p) / (2*(lock+2))
-    final_p = np.round(final_p)
+    final_p = round(final_p)
     return int(final_p)
 
 
