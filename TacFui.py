@@ -30,13 +30,13 @@ def CalcOptimalDodge(lock, init_p, final_p):
     """
     fui = (final_p-0.5)*(2*(lock+2))/(init_p) -2
     if fui.is_integer() and final_p%2 : fui += 1
-    fio = math.ceil(fui)
+    fui = math.ceil(fui)
     return int(fui)
 def CalcOptimalDodge_Wrapper(lock, init_p) :
     def CalcOptimalDodge_Nested(final_p) :
         fui = (final_p-0.5)*(2*(lock+2))/(init_p) -2
         if fui.is_integer() and final_p%2 : fui += 1
-        fio = math.ceil(fui)
+        fui = math.ceil(fui)
         return int(fui)
     return CalcOptimalDodge_Nested
 
