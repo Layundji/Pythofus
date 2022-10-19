@@ -1,0 +1,8870 @@
+[
+  {
+    "db_id": 31,
+    "name": "Larve Bleue",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 1,
+    "areas": [
+      "Port de Madrestam",
+      "Bord de la for\u00eat mal\u00e9fique",
+      "C\u00f4te d'Asse",
+      "Prairies d'Astrub",
+      "Rivi\u00e8re Kawaii"
+    ],
+    "race": "Larves",
+    "mm_id": "18"
+  },
+  {
+    "db_id": 34,
+    "name": "Larve Verte",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 2,
+    "areas": [
+      "Port de Madrestam",
+      "Bord de la for\u00eat mal\u00e9fique",
+      "C\u00f4te d'Asse",
+      "Prairies d'Astrub",
+      "Rivi\u00e8re Kawaii"
+    ],
+    "race": "Larves",
+    "mm_id": "30"
+  },
+  {
+    "db_id": 46,
+    "name": "Larve Orange",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 2,
+    "areas": [
+      "Port de Madrestam",
+      "Bord de la for\u00eat mal\u00e9fique",
+      "C\u00f4te d'Asse",
+      "Prairies d'Astrub",
+      "Rivi\u00e8re Kawaii"
+    ],
+    "race": "Larves",
+    "mm_id": "33"
+  },
+  {
+    "db_id": 47,
+    "name": "Abraknyde",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 5,
+    "areas": [
+      "For\u00eat Sombre",
+      "Or\u00e9e de la for\u00eat des Abraknydes"
+    ],
+    "race": "Abraknydiens",
+    "mm_id": "98"
+  },
+  {
+    "db_id": 48,
+    "name": "Tournesol Sauvage",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 2,
+    "areas": [
+      "Rives iridescentes",
+      "Champs d'Astrub",
+      "Grange du Tournesol Affam\u00e9"
+    ],
+    "race": "Plantes des champs",
+    "mm_id": "38"
+  },
+  {
+    "db_id": 52,
+    "name": "Arakne",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 1,
+    "areas": [
+      "Champ des Ingalsse",
+      "Souterrains",
+      "Montagne basse des Craqueleurs",
+      "Campagne d'Amakna"
+    ],
+    "race": "Vermines des champs",
+    "mm_id": "3"
+  },
+  {
+    "db_id": 53,
+    "name": "Bwork Mage",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 4,
+    "areas": [
+      "Campement des Bworks",
+      "Village des Bworks",
+      "Donjon des Bworks",
+      "Montagne basse des Craqueleurs"
+    ],
+    "race": "Bworks d'Amakna",
+    "mm_id": "79"
+  },
+  {
+    "db_id": 54,
+    "name": "Chafer",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 6,
+    "areas": [
+      "Cimeti\u00e8re",
+      "Cryptes du cimeti\u00e8re",
+      "Prison de Madrestam",
+      "Bois de Litneg",
+      "Donjon des Squelettes"
+    ],
+    "race": "Chafers",
+    "mm_id": "116"
+  },
+  {
+    "db_id": 55,
+    "name": "Gel\u00e9e Bleue",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 2,
+    "areas": [
+      "P\u00e9ninsule des gel\u00e9es",
+      "Gelaxi\u00e8me dimension"
+    ],
+    "race": "Gel\u00e9es",
+    "mm_id": "27"
+  },
+  {
+    "db_id": 56,
+    "name": "Gel\u00e9e Menthe",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 2,
+    "areas": [
+      "P\u00e9ninsule des gel\u00e9es",
+      "Gelaxi\u00e8me dimension"
+    ],
+    "race": "Gel\u00e9es",
+    "mm_id": "28"
+  },
+  {
+    "db_id": 57,
+    "name": "Gel\u00e9e Fraise",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 5,
+    "areas": [
+      "P\u00e9ninsule des gel\u00e9es",
+      "Gelaxi\u00e8me dimension"
+    ],
+    "race": "Gel\u00e9es",
+    "mm_id": "93"
+  },
+  {
+    "db_id": 58,
+    "name": "Gel\u00e9e Royale Bleue",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 17,
+    "areas": [
+      "Gelaxi\u00e8me dimension"
+    ],
+    "race": "Gel\u00e9es",
+    "mm_id": "304"
+  },
+  {
+    "db_id": 59,
+    "name": "Champ Champ",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 2,
+    "areas": [
+      "Coin des Bouftous",
+      "Campagne d'Amakna",
+      "Temple du Grand Ougah"
+    ],
+    "race": "Vermines des champs",
+    "mm_id": "22"
+  },
+  {
+    "db_id": 61,
+    "name": "Moskito",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 1,
+    "areas": [
+      "Bord de la for\u00eat mal\u00e9fique",
+      "Campagne d'Amakna"
+    ],
+    "race": "Vermines des champs",
+    "mm_id": "2"
+  },
+  {
+    "db_id": 62,
+    "name": "Gob-trotteur",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 3,
+    "areas": [
+      "Campement des Bworks",
+      "Or\u00e9e de la for\u00eat des Abraknydes",
+      "Campement des Gobelins",
+      "Montagne basse des Craqueleurs",
+      "Akad\u00e9mie des Gobs"
+    ],
+    "race": "Gobelins d'Amakna",
+    "mm_id": "52"
+  },
+  {
+    "db_id": 63,
+    "name": "Crabe",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 1,
+    "areas": [
+      "Rivage sufokien"
+    ],
+    "race": "Monstres des plages",
+    "mm_id": "19"
+  },
+  {
+    "db_id": 64,
+    "name": "Wabbit",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 3,
+    "areas": [
+      "\u00cele de la Cawotte",
+      "\u00celot de la Couronne",
+      "Ch\u00e2teau du Wa Wabbit"
+    ],
+    "race": "Wabbits",
+    "mm_id": "58"
+  },
+  {
+    "db_id": 65,
+    "name": "Black Wabbit",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 5,
+    "areas": [
+      "\u00cele de la Cawotte",
+      "\u00celot de la Couronne",
+      "Ch\u00e2teau du Wa Wabbit"
+    ],
+    "race": "Wabbits",
+    "mm_id": "82"
+  },
+  {
+    "db_id": 68,
+    "name": "Black Tiwabbit",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 2,
+    "areas": [
+      "\u00cele de la Cawotte",
+      "Ch\u00e2teau du Wa Wabbit"
+    ],
+    "race": "Wabbits",
+    "mm_id": "35"
+  },
+  {
+    "db_id": 72,
+    "name": "Tiwabbit Kiafin",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 2,
+    "areas": [
+      "\u00cele de la Cawotte",
+      "Ch\u00e2teau du Wa Wabbit"
+    ],
+    "race": "Wabbits",
+    "mm_id": "37"
+  },
+  {
+    "db_id": 74,
+    "name": "Bwork Archer",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 5,
+    "areas": [
+      "Campement des Bworks",
+      "Village des Bworks",
+      "Donjon des Bworks",
+      "Montagne basse des Craqueleurs"
+    ],
+    "race": "Bworks d'Amakna",
+    "mm_id": "84"
+  },
+  {
+    "db_id": 76,
+    "name": "Dragoeuf Calcaire",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 10,
+    "areas": [
+      "Presqu'\u00eele des Dragoeufs",
+      "\u00c9preuve de Draegnerys"
+    ],
+    "race": "Dragoeufs Immatures",
+    "mm_id": "191"
+  },
+  {
+    "db_id": 78,
+    "name": "Rose D\u00e9moniaque",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 2,
+    "areas": [
+      "Coin des Bouftous",
+      "Rives iridescentes",
+      "Champs d'Astrub",
+      "Grange du Tournesol Affam\u00e9"
+    ],
+    "race": "Plantes des champs",
+    "mm_id": "26"
+  },
+  {
+    "db_id": 79,
+    "name": "Pissenlit Diabolique",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 2,
+    "areas": [
+      "Rives iridescentes",
+      "Champs d'Astrub",
+      "Grange du Tournesol Affam\u00e9"
+    ],
+    "race": "Plantes des champs",
+    "mm_id": "23"
+  },
+  {
+    "db_id": 81,
+    "name": "Kwak de Vent",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 9,
+    "areas": [
+      "Montagne des Craqueleurs",
+      "Nid du Kwakwa"
+    ],
+    "race": "Kwaks",
+    "mm_id": "172"
+  },
+  {
+    "db_id": 83,
+    "name": "Kwak de Flamme",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 9,
+    "areas": [
+      "Montagne des Craqueleurs",
+      "Nid du Kwakwa"
+    ],
+    "race": "Kwaks",
+    "mm_id": "174"
+  },
+  {
+    "db_id": 84,
+    "name": "Kwak de Glace",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 9,
+    "areas": [
+      "Montagne des Craqueleurs",
+      "Nid du Kwakwa"
+    ],
+    "race": "Kwaks",
+    "mm_id": "175"
+  },
+  {
+    "db_id": 85,
+    "name": "Gel\u00e9e Royale Menthe",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 17,
+    "areas": [
+      "Gelaxi\u00e8me dimension"
+    ],
+    "race": "Gel\u00e9es",
+    "mm_id": "305"
+  },
+  {
+    "db_id": 86,
+    "name": "Gel\u00e9e Royale Fraise",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 18,
+    "areas": [
+      "Gelaxi\u00e8me dimension"
+    ],
+    "race": "Gel\u00e9es",
+    "mm_id": "325"
+  },
+  {
+    "db_id": 87,
+    "name": "Dragoeuf Argile",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 10,
+    "areas": [
+      "Presqu'\u00eele des Dragoeufs",
+      "\u00c9preuve de Draegnerys"
+    ],
+    "race": "Dragoeufs Immatures",
+    "mm_id": "192"
+  },
+  {
+    "db_id": 88,
+    "name": "Dragoeuf Ardoise",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 10,
+    "areas": [
+      "Presqu'\u00eele des Dragoeufs",
+      "\u00c9preuve de Draegnerys"
+    ],
+    "race": "Dragoeufs Immatures",
+    "mm_id": "194"
+  },
+  {
+    "db_id": 89,
+    "name": "Dragoeuf Charbon",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 10,
+    "areas": [
+      "Presqu'\u00eele des Dragoeufs",
+      "\u00c9preuve de Draegnerys"
+    ],
+    "race": "Dragoeufs Immatures",
+    "mm_id": "193"
+  },
+  {
+    "db_id": 96,
+    "name": "Tiwabbit",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 2,
+    "areas": [
+      "\u00cele de la Cawotte",
+      "Ch\u00e2teau du Wa Wabbit"
+    ],
+    "race": "Wabbits",
+    "mm_id": "36"
+  },
+  {
+    "db_id": 97,
+    "name": "Wo Wabbit",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 7,
+    "areas": [
+      "\u00celot de Waldo",
+      "\u00celot de la Couronne",
+      "Ch\u00e2teau du Wa Wabbit"
+    ],
+    "race": "Wabbits",
+    "mm_id": "130"
+  },
+  {
+    "db_id": 98,
+    "name": "Tofu",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 1,
+    "areas": [
+      "Champ des Ingalsse",
+      "Donjon des Tofus",
+      "Tofulailler Royal",
+      "Faubourgs des artisans"
+    ],
+    "race": "Tofus",
+    "mm_id": "20"
+  },
+  {
+    "db_id": 99,
+    "name": "Grand Pa Wabbit",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 7,
+    "areas": [
+      "\u00celot de Waldo",
+      "\u00celot de la Couronne",
+      "Ch\u00e2teau du Wa Wabbit"
+    ],
+    "race": "Wabbits",
+    "mm_id": "129"
+  },
+  {
+    "db_id": 101,
+    "name": "Bouftou",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 2,
+    "areas": [
+      "Coin des Bouftous",
+      "Tain\u00e9la",
+      "Cour du Bouftou Royal",
+      "Coin des Boos"
+    ],
+    "race": "Bouftous",
+    "mm_id": "31"
+  },
+  {
+    "db_id": 102,
+    "name": "Mulou",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 11,
+    "areas": [
+      "Montagne des Craqueleurs",
+      "Souterrains",
+      "Bois des Arak-ha\u00ef",
+      "Tani\u00e8re du Meulou",
+      "Hauts des Hurlements"
+    ],
+    "race": "Mulous",
+    "mm_id": "216"
+  },
+  {
+    "db_id": 103,
+    "name": "Prespic",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 3,
+    "areas": [
+      "For\u00eat d'Amakna",
+      "Bord de la for\u00eat mal\u00e9fique",
+      "For\u00eat d'Astrub",
+      "Millifutaie"
+    ],
+    "race": "Animaux de la for\u00eat",
+    "mm_id": "55"
+  },
+  {
+    "db_id": 104,
+    "name": "Sanglier",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 3,
+    "areas": [
+      "For\u00eat d'Amakna",
+      "Bord de la for\u00eat mal\u00e9fique",
+      "For\u00eat d'Astrub",
+      "Millifutaie"
+    ],
+    "race": "Animaux de la for\u00eat",
+    "mm_id": "44"
+  },
+  {
+    "db_id": 106,
+    "name": "Craqueleur",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 5,
+    "areas": [
+      "Montagne des Craqueleurs",
+      "Pitons Rocheux des Craqueleurs",
+      "Montagne basse des Craqueleurs"
+    ],
+    "race": "Craqueleurs",
+    "mm_id": "96"
+  },
+  {
+    "db_id": 107,
+    "name": "Hell Mina",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 18,
+    "areas": [
+      "Tertre du long sommeil"
+    ],
+    "race": "Malters",
+    "mm_id": "321"
+  },
+  {
+    "db_id": 108,
+    "name": "Rib",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 6,
+    "areas": [
+      "Cimeti\u00e8re",
+      "Cryptes du cimeti\u00e8re",
+      "Bois de Litneg",
+      "Donjon des Squelettes"
+    ],
+    "race": "Chafers",
+    "mm_id": "104"
+  },
+  {
+    "db_id": 110,
+    "name": "Chafer Invisible",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 5,
+    "areas": [
+      "Cimeti\u00e8re",
+      "Bois des Arak-ha\u00ef",
+      "Bois de Litneg",
+      "Donjon des Squelettes"
+    ],
+    "race": "Chafers",
+    "mm_id": "95"
+  },
+  {
+    "db_id": 111,
+    "name": "Tofu Mal\u00e9fique",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 1,
+    "areas": [
+      "Cimeti\u00e8re",
+      "Cryptes du cimeti\u00e8re",
+      "Maison Fant\u00f4me"
+    ],
+    "race": "B\u00eates de la nuit",
+    "mm_id": "6"
+  },
+  {
+    "db_id": 112,
+    "name": "Boo",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 3,
+    "areas": [
+      "Mar\u00e9cages d'Amakna",
+      "Coin des Boos",
+      "Mar\u00e9cages naus\u00e9abonds",
+      "Mar\u00e9cages sans fond"
+    ],
+    "race": "Gadouilleux",
+    "mm_id": "54"
+  },
+  {
+    "db_id": 113,
+    "name": "Dragon Cochon",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 17,
+    "areas": [
+      "Antre du Dragon Cochon"
+    ],
+    "race": "Porcos",
+    "mm_id": "310"
+  },
+  {
+    "db_id": 118,
+    "name": "Mineur Sombre",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 5,
+    "areas": [
+      "Souterrains",
+      "Carri\u00e8re d'Astrub",
+      "Territoire des Bandits",
+      "For\u00eat Sombre",
+      "Passage vers Br\u00e2kmar",
+      "Routes Rocailleuses",
+      "Donjon des Forgerons"
+    ],
+    "race": "Bandits",
+    "mm_id": "83"
+  },
+  {
+    "db_id": 119,
+    "name": "Forgeron Sombre",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 7,
+    "areas": [
+      "Territoire des Bandits",
+      "Passage vers Br\u00e2kmar",
+      "Donjon des Forgerons"
+    ],
+    "race": "Bandits",
+    "mm_id": "121"
+  },
+  {
+    "db_id": 121,
+    "name": "Minotoror",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 17,
+    "areas": [
+      "Centre du labyrinthe du Minotoror"
+    ],
+    "race": "Minos",
+    "mm_id": "320"
+  },
+  {
+    "db_id": 123,
+    "name": "Cochon de Lait",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 3,
+    "areas": [
+      "Montagne des Craqueleurs",
+      "Plaine des Porkass"
+    ],
+    "race": "Porkass",
+    "mm_id": "56"
+  },
+  {
+    "db_id": 124,
+    "name": "Ma\u00eetre Vampire",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 4,
+    "areas": [
+      "Cryptes du cimeti\u00e8re"
+    ],
+    "race": "B\u00eates de la nuit",
+    "mm_id": "72"
+  },
+  {
+    "db_id": 126,
+    "name": "Souris Grise",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 1,
+    "areas": [
+      "Cryptes du cimeti\u00e8re"
+    ],
+    "race": "B\u00eates de la nuit",
+    "mm_id": "1"
+  },
+  {
+    "db_id": 127,
+    "name": "Vampire",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 3,
+    "areas": [
+      "Cryptes du cimeti\u00e8re",
+      "Maison Fant\u00f4me"
+    ],
+    "race": "B\u00eates de la nuit",
+    "mm_id": "47"
+  },
+  {
+    "db_id": 134,
+    "name": "Boufton Blanc",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 1,
+    "areas": [
+      "Coin des Bouftous",
+      "Tain\u00e9la",
+      "Cour du Bouftou Royal",
+      "Coin des Boos"
+    ],
+    "race": "Bouftous",
+    "mm_id": "4"
+  },
+  {
+    "db_id": 147,
+    "name": "Bouftou Royal",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 17,
+    "areas": [
+      "Cour du Bouftou Royal"
+    ],
+    "race": "Bouftous",
+    "mm_id": "302"
+  },
+  {
+    "db_id": 148,
+    "name": "Chef de Guerre Bouftou",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 3,
+    "areas": [
+      "Coin des Bouftous",
+      "Tain\u00e9la",
+      "Cour du Bouftou Royal"
+    ],
+    "race": "Bouftous",
+    "mm_id": "59"
+  },
+  {
+    "db_id": 149,
+    "name": "Boufton Noir",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 1,
+    "areas": [
+      "Coin des Bouftous",
+      "Tain\u00e9la",
+      "Cour du Bouftou Royal",
+      "Coin des Boos"
+    ],
+    "race": "Bouftous",
+    "mm_id": "5"
+  },
+  {
+    "db_id": 150,
+    "name": "Noeul",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 4,
+    "areas": [
+      "Cryptes du cimeti\u00e8re"
+    ],
+    "race": "B\u00eates de la nuit",
+    "mm_id": "74"
+  },
+  {
+    "db_id": 153,
+    "name": "Boulanger Sombre",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 2,
+    "areas": [
+      "Souterrains",
+      "Territoire des Bandits",
+      "Passage vers Br\u00e2kmar",
+      "Donjon des Forgerons"
+    ],
+    "race": "Bandits",
+    "mm_id": "34"
+  },
+  {
+    "db_id": 154,
+    "name": "Kwoan",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 2,
+    "areas": [
+      "Cimeti\u00e8re",
+      "Cryptes du cimeti\u00e8re",
+      "Maison Fant\u00f4me"
+    ],
+    "race": "B\u00eates de la nuit",
+    "mm_id": "29"
+  },
+  {
+    "db_id": 155,
+    "name": "Bandit du clan des Roublards",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 2,
+    "areas": [
+      "Territoire des Bandits",
+      "Donjon des Forgerons"
+    ],
+    "race": "Bandits",
+    "mm_id": "39"
+  },
+  {
+    "db_id": 159,
+    "name": "Milimulou",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 4,
+    "areas": [
+      "For\u00eat d'Amakna",
+      "Bois des Arak-ha\u00ef",
+      "For\u00eat d'Astrub",
+      "Millifutaie"
+    ],
+    "race": "Animaux de la for\u00eat",
+    "mm_id": "75"
+  },
+  {
+    "db_id": 171,
+    "name": "Dragodinde Amande Sauvage",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 5,
+    "areas": [
+      "Plaine des Scarafeuilles",
+      "Territoire des Dragodindes Sauvages"
+    ],
+    "race": "Dragodindes",
+    "mm_id": "92"
+  },
+  {
+    "db_id": 173,
+    "name": "Abraknyde Ancestral",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 18,
+    "areas": [
+      "Domaine Ancestral"
+    ],
+    "race": "Abraknydiens Sombres",
+    "mm_id": "335"
+  },
+  {
+    "db_id": 178,
+    "name": "Gobet",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 2,
+    "areas": [
+      "Campement des Bworks",
+      "Or\u00e9e de la for\u00eat des Abraknydes",
+      "Campement des Gobelins",
+      "Montagne basse des Craqueleurs",
+      "Akad\u00e9mie des Gobs"
+    ],
+    "race": "Gobelins d'Amakna",
+    "mm_id": "40"
+  },
+  {
+    "db_id": 179,
+    "name": "Wabbit Squelette",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 5,
+    "areas": [
+      "\u00celot des Tombeaux"
+    ],
+    "race": "Wabbits",
+    "mm_id": "94"
+  },
+  {
+    "db_id": 180,
+    "name": "Wa Wabbit",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 18,
+    "areas": [
+      "Ch\u00e2teau du Wa Wabbit"
+    ],
+    "race": "Wabbits",
+    "mm_id": "331"
+  },
+  {
+    "db_id": 182,
+    "name": "Wabbit Gm",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 17,
+    "areas": [
+      "Souterrains des Wabbits"
+    ],
+    "race": "Wabbits",
+    "mm_id": "307"
+  },
+  {
+    "db_id": 194,
+    "name": "Scarafeuille Rouge",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 6,
+    "areas": [
+      "Plaine des Scarafeuilles",
+      "Donjon des Scarafeuilles"
+    ],
+    "race": "Scarafeuilles",
+    "mm_id": "102"
+  },
+  {
+    "db_id": 198,
+    "name": "Scarafeuille Bleu",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 6,
+    "areas": [
+      "Plaine des Scarafeuilles",
+      "Donjon des Scarafeuilles"
+    ],
+    "race": "Scarafeuilles",
+    "mm_id": "101"
+  },
+  {
+    "db_id": 200,
+    "name": "Dragodinde Rousse Sauvage",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 7,
+    "areas": [
+      "Plaine des Scarafeuilles",
+      "Territoire des Dragodindes Sauvages"
+    ],
+    "race": "Dragodindes",
+    "mm_id": "120"
+  },
+  {
+    "db_id": 208,
+    "name": "Tikoko",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 3,
+    "areas": [
+      "Plage de la Tortue",
+      "\u00cele des naufrag\u00e9s"
+    ],
+    "race": "Palmikos",
+    "mm_id": "42"
+  },
+  {
+    "db_id": 209,
+    "name": "Kokoko",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 8,
+    "areas": [
+      "Plage de la Tortue",
+      "\u00cele des naufrag\u00e9s"
+    ],
+    "race": "Palmikos",
+    "mm_id": "142"
+  },
+  {
+    "db_id": 211,
+    "name": "Kanniboul Ark",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 9,
+    "areas": [
+      "For\u00eat des Masques",
+      "Village Kanniboul"
+    ],
+    "race": "Kannibouls de Moon",
+    "mm_id": "164"
+  },
+  {
+    "db_id": 212,
+    "name": "Kanniboul Eth",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 9,
+    "areas": [
+      "For\u00eat des Masques",
+      "Village Kanniboul"
+    ],
+    "race": "Kannibouls de Moon",
+    "mm_id": "167"
+  },
+  {
+    "db_id": 213,
+    "name": "Kanniboul Jav",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 9,
+    "areas": [
+      "For\u00eat des Masques",
+      "Village Kanniboul"
+    ],
+    "race": "Kannibouls de Moon",
+    "mm_id": "165"
+  },
+  {
+    "db_id": 214,
+    "name": "Kanniboul Sarbak",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 9,
+    "areas": [
+      "For\u00eat des Masques",
+      "Village Kanniboul"
+    ],
+    "race": "Kannibouls de Moon",
+    "mm_id": "166"
+  },
+  {
+    "db_id": 215,
+    "name": "Trukikol",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 3,
+    "areas": [
+      "Jungle Interdite",
+      "Arbre de Moon"
+    ],
+    "race": "Monstres de la Jungle Interdite",
+    "mm_id": "43"
+  },
+  {
+    "db_id": 216,
+    "name": "Gloutovore",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 12,
+    "areas": [
+      "Jungle Interdite",
+      "Arbre de Moon"
+    ],
+    "race": "Monstres de la Jungle Interdite",
+    "mm_id": "236"
+  },
+  {
+    "db_id": 217,
+    "name": "Fourbasse",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 4,
+    "areas": [
+      "Jungle Interdite",
+      "Arbre de Moon"
+    ],
+    "race": "Monstres de la Jungle Interdite",
+    "mm_id": "76"
+  },
+  {
+    "db_id": 218,
+    "name": "Nodkoko",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 3,
+    "areas": [
+      "Plage de la Tortue",
+      "\u00cele des naufrag\u00e9s"
+    ],
+    "race": "Palmikos",
+    "mm_id": "41"
+  },
+  {
+    "db_id": 220,
+    "name": "Tortue Rouge",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 4,
+    "areas": [
+      "Plage de la Tortue"
+    ],
+    "race": "Tortues de Moon",
+    "mm_id": "71"
+  },
+  {
+    "db_id": 221,
+    "name": "Tortue Bleue",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 4,
+    "areas": [
+      "Plage de la Tortue"
+    ],
+    "race": "Tortues de Moon",
+    "mm_id": "63"
+  },
+  {
+    "db_id": 222,
+    "name": "Tortue Verte",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 4,
+    "areas": [
+      "Plage de la Tortue"
+    ],
+    "race": "Tortues de Moon",
+    "mm_id": "78"
+  },
+  {
+    "db_id": 223,
+    "name": "Tortue Jaune",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 3,
+    "areas": [
+      "Plage de la Tortue"
+    ],
+    "race": "Tortues de Moon",
+    "mm_id": "57"
+  },
+  {
+    "db_id": 226,
+    "name": "Moon",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 18,
+    "areas": [
+      "Arbre de Moon"
+    ],
+    "race": "Monstres de la Jungle Interdite",
+    "mm_id": "332"
+  },
+  {
+    "db_id": 228,
+    "name": "Boomba",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 6,
+    "areas": [
+      "Chemin du Cr\u00e2ne",
+      "Cale de l'arche d'Otoma\u00ef",
+      "Bateau du Chouque"
+    ],
+    "race": "Pirates de Moon",
+    "mm_id": "111"
+  },
+  {
+    "db_id": 229,
+    "name": "Nakunbra",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 10,
+    "areas": [
+      "Chemin du Cr\u00e2ne",
+      "Cale de l'arche d'Otoma\u00ef",
+      "Bateau du Chouque"
+    ],
+    "race": "Pirates de Moon",
+    "mm_id": "189"
+  },
+  {
+    "db_id": 231,
+    "name": "Canondorf",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 10,
+    "areas": [
+      "Chemin du Cr\u00e2ne",
+      "Cale de l'arche d'Otoma\u00ef",
+      "Bateau du Chouque"
+    ],
+    "race": "Pirates de Moon",
+    "mm_id": "187"
+  },
+  {
+    "db_id": 232,
+    "name": "Meulou",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 18,
+    "areas": [
+      "Cloaque d'Amakna",
+      "Tani\u00e8re du Meulou"
+    ],
+    "race": "Mulous",
+    "mm_id": "330"
+  },
+  {
+    "db_id": 233,
+    "name": "Troollaraj",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 14,
+    "areas": [
+      "Bois de Litneg"
+    ],
+    "race": "Troolls de Litneg",
+    "mm_id": "278"
+  },
+  {
+    "db_id": 235,
+    "name": "Kwak de Terre",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 9,
+    "areas": [
+      "Montagne des Craqueleurs",
+      "Nid du Kwakwa"
+    ],
+    "race": "Kwaks",
+    "mm_id": "173"
+  },
+  {
+    "db_id": 236,
+    "name": "Piou Violet",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 1,
+    "areas": [
+      "Village d'Amakna",
+      "Sufokia",
+      "Cit\u00e9 d'Astrub",
+      "Village des Bworks",
+      "Faubourgs des artisans",
+      "Havres d'ivoire",
+      "C\u0153ur immacul\u00e9",
+      "Promontoire des cieux",
+      "La Cuirasse",
+      "L'Ancre",
+      "La Marmite",
+      "L'Enclume"
+    ],
+    "race": "Pious",
+    "mm_id": "12"
+  },
+  {
+    "db_id": 240,
+    "name": "Scarafeuille Vert",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 6,
+    "areas": [
+      "Plaine des Scarafeuilles",
+      "Donjon des Scarafeuilles"
+    ],
+    "race": "Scarafeuilles",
+    "mm_id": "103"
+  },
+  {
+    "db_id": 241,
+    "name": "Scarafeuille Blanc",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 6,
+    "areas": [
+      "Plaine des Scarafeuilles",
+      "Donjon des Scarafeuilles"
+    ],
+    "race": "Scarafeuilles",
+    "mm_id": "100"
+  },
+  {
+    "db_id": 242,
+    "name": "Flamm\u00e8che Feu",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 1,
+    "areas": [
+      "Plaine des Scarafeuilles"
+    ],
+    "race": "Scarafeuilles",
+    "mm_id": "16"
+  },
+  {
+    "db_id": 243,
+    "name": "Flamm\u00e8che Eau",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 1,
+    "areas": [
+      "Plaine des Scarafeuilles"
+    ],
+    "race": "Scarafeuilles",
+    "mm_id": "15"
+  },
+  {
+    "db_id": 244,
+    "name": "Flamm\u00e8che Terre",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 1,
+    "areas": [
+      "Plaine des Scarafeuilles"
+    ],
+    "race": "Scarafeuilles",
+    "mm_id": "17"
+  },
+  {
+    "db_id": 245,
+    "name": "Flamm\u00e8che Air",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 1,
+    "areas": [
+      "Plaine des Scarafeuilles"
+    ],
+    "race": "Scarafeuilles",
+    "mm_id": "14"
+  },
+  {
+    "db_id": 253,
+    "name": "Abraknyde Sombre",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 12,
+    "areas": [
+      "For\u00eat Sombre",
+      "Domaine Ancestral"
+    ],
+    "race": "Abraknydiens Sombres",
+    "mm_id": "230"
+  },
+  {
+    "db_id": 254,
+    "name": "Abraknyde V\u00e9n\u00e9rable",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 8,
+    "areas": [
+      "For\u00eat Sombre",
+      "Domaine Ancestral"
+    ],
+    "race": "Abraknydiens Sombres",
+    "mm_id": "157"
+  },
+  {
+    "db_id": 255,
+    "name": "Arakne des \u00c9gouts",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 2,
+    "areas": [
+      "\u00c9gouts d'Astrub"
+    ],
+    "race": "Araknes",
+    "mm_id": "24"
+  },
+  {
+    "db_id": 256,
+    "name": "Tronknyde",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 6,
+    "areas": [
+      "For\u00eat Sombre",
+      "Or\u00e9e de la for\u00eat des Abraknydes"
+    ],
+    "race": "Abraknydiens",
+    "mm_id": "112"
+  },
+  {
+    "db_id": 257,
+    "name": "Ch\u00eane Mou",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 19,
+    "areas": [
+      "Clairi\u00e8re du Ch\u00eane Mou"
+    ],
+    "race": "Abraknydiens Irascibles",
+    "mm_id": "349"
+  },
+  {
+    "db_id": 259,
+    "name": "Arakne Majeure",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 7,
+    "areas": [
+      "Bois des Arak-ha\u00ef",
+      "Or\u00e9e de la for\u00eat des Abraknydes",
+      "Routes Rocailleuses"
+    ],
+    "race": "Araknes",
+    "mm_id": "127"
+  },
+  {
+    "db_id": 261,
+    "name": "Crocodaille",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 6,
+    "areas": [
+      "Mar\u00e9cages d'Amakna",
+      "Mar\u00e9cages naus\u00e9abonds",
+      "Mar\u00e9cages sans fond"
+    ],
+    "race": "Gadouilleux",
+    "mm_id": "117"
+  },
+  {
+    "db_id": 263,
+    "name": "Chef Crocodaille",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 11,
+    "areas": [
+      "Mar\u00e9cages d'Amakna",
+      "Mar\u00e9cages naus\u00e9abonds",
+      "Mar\u00e9cages sans fond"
+    ],
+    "race": "Gadouilleux",
+    "mm_id": "210"
+  },
+  {
+    "db_id": 273,
+    "name": "Blop Coco",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 6,
+    "areas": [
+      "Lac de Cania",
+      "Clos des Blops"
+    ],
+    "race": "Blops",
+    "mm_id": "105"
+  },
+  {
+    "db_id": 274,
+    "name": "Blop Indigo",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 6,
+    "areas": [
+      "Lac de Cania",
+      "Clos des Blops"
+    ],
+    "race": "Blops",
+    "mm_id": "107"
+  },
+  {
+    "db_id": 275,
+    "name": "Blop Griotte",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 6,
+    "areas": [
+      "Lac de Cania",
+      "Clos des Blops"
+    ],
+    "race": "Blops",
+    "mm_id": "106"
+  },
+  {
+    "db_id": 276,
+    "name": "Blop Reinette",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 6,
+    "areas": [
+      "Lac de Cania",
+      "Clos des Blops"
+    ],
+    "race": "Blops",
+    "mm_id": "108"
+  },
+  {
+    "db_id": 277,
+    "name": "Biblop Indigo",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 3,
+    "areas": [
+      "Lac de Cania"
+    ],
+    "race": "Blops",
+    "mm_id": "50"
+  },
+  {
+    "db_id": 278,
+    "name": "Biblop Coco",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 3,
+    "areas": [
+      "Lac de Cania"
+    ],
+    "race": "Blops",
+    "mm_id": "48"
+  },
+  {
+    "db_id": 279,
+    "name": "Biblop Griotte",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 3,
+    "areas": [
+      "Lac de Cania"
+    ],
+    "race": "Blops",
+    "mm_id": "49"
+  },
+  {
+    "db_id": 280,
+    "name": "Biblop Reinette",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 3,
+    "areas": [
+      "Lac de Cania"
+    ],
+    "race": "Blops",
+    "mm_id": "51"
+  },
+  {
+    "db_id": 281,
+    "name": "Corbac",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 4,
+    "areas": [
+      "P\u00e9nates du Corbac",
+      "Biblioth\u00e8que du Ma\u00eetre Corbac"
+    ],
+    "race": "Corbacs",
+    "mm_id": "64"
+  },
+  {
+    "db_id": 287,
+    "name": "Kanigrou",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 11,
+    "areas": [
+      "Routes Rocailleuses"
+    ],
+    "race": "Ruffians de Cania",
+    "mm_id": "212"
+  },
+  {
+    "db_id": 288,
+    "name": "Serpentin",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 11,
+    "areas": [
+      "Champs de Cania",
+      "Routes Rocailleuses"
+    ],
+    "race": "Animaux des Champs",
+    "mm_id": "211"
+  },
+  {
+    "db_id": 289,
+    "name": "Ma\u00eetre Corbac",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 18,
+    "areas": [
+      "Biblioth\u00e8que du Ma\u00eetre Corbac"
+    ],
+    "race": "Corbacs",
+    "mm_id": "326"
+  },
+  {
+    "db_id": 290,
+    "name": "Chafer Lancier",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 8,
+    "areas": [
+      "Cryptes du cimeti\u00e8re",
+      "Bois des Arak-ha\u00ef",
+      "Cimeti\u00e8re des H\u00e9ros",
+      "Cimeti\u00e8re des Tortur\u00e9s",
+      "Bois de Litneg"
+    ],
+    "race": "Chafers",
+    "mm_id": "144"
+  },
+  {
+    "db_id": 291,
+    "name": "Chafer Archer",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 8,
+    "areas": [
+      "Cryptes du cimeti\u00e8re",
+      "Bois des Arak-ha\u00ef",
+      "Cimeti\u00e8re des H\u00e9ros",
+      "Cimeti\u00e8re des Tortur\u00e9s",
+      "Bois de Litneg"
+    ],
+    "race": "Chafers",
+    "mm_id": "143"
+  },
+  {
+    "db_id": 292,
+    "name": "Chafer d'\u00c9lite",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 8,
+    "areas": [
+      "Cryptes du cimeti\u00e8re",
+      "Bois des Arak-ha\u00ef",
+      "Cimeti\u00e8re des H\u00e9ros",
+      "Cimeti\u00e8re des Tortur\u00e9s"
+    ],
+    "race": "Chafers",
+    "mm_id": "160"
+  },
+  {
+    "db_id": 293,
+    "name": "Craqueleur des Plaines",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 8,
+    "areas": [
+      "Plaines Rocheuses",
+      "Pitons Rocheux des Craqueleurs",
+      "Routes Rocailleuses"
+    ],
+    "race": "Craqueleurs",
+    "mm_id": "158"
+  },
+  {
+    "db_id": 294,
+    "name": "Souris Verte",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 11,
+    "areas": [
+      "Champs de Cania"
+    ],
+    "race": "Animaux des Champs",
+    "mm_id": "208"
+  },
+  {
+    "db_id": 297,
+    "name": "Sanglier des Plaines",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 8,
+    "areas": [
+      "Plaine des Porkass"
+    ],
+    "race": "Porkass",
+    "mm_id": "156"
+  },
+  {
+    "db_id": 298,
+    "name": "Scorbute",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 6,
+    "areas": [
+      "D\u00e9solation de Sidimote",
+      "Laboratoire de Brumen Tinctorias"
+    ],
+    "race": "Sidimonstres",
+    "mm_id": "119"
+  },
+  {
+    "db_id": 299,
+    "name": "Croc Gland",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 4,
+    "areas": [
+      "D\u00e9solation de Sidimote",
+      "Tani\u00e8re du Meulou",
+      "Laboratoire de Brumen Tinctorias"
+    ],
+    "race": "Sidimonstres",
+    "mm_id": "61"
+  },
+  {
+    "db_id": 300,
+    "name": "Kol\u00e9rat",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 2,
+    "areas": [
+      "D\u00e9solation de Sidimote",
+      "Laboratoire de Brumen Tinctorias"
+    ],
+    "race": "Sidimonstres",
+    "mm_id": "32"
+  },
+  {
+    "db_id": 301,
+    "name": "Macien",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 9,
+    "areas": [
+      "Laboratoire de Brumen Tinctorias"
+    ],
+    "race": "Sidimonstres",
+    "mm_id": "171"
+  },
+  {
+    "db_id": 343,
+    "name": "Cavalier Porkass",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 7,
+    "areas": [
+      "Plaine des Porkass"
+    ],
+    "race": "Porkass",
+    "mm_id": "131"
+  },
+  {
+    "db_id": 344,
+    "name": "Berger Porkass",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 3,
+    "areas": [
+      "Plaine des Porkass"
+    ],
+    "race": "Porkass",
+    "mm_id": "60"
+  },
+  {
+    "db_id": 371,
+    "name": "Ma\u00eetre Bolet",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 9,
+    "areas": [
+      "Routes Rocailleuses"
+    ],
+    "race": "Ruffians de Cania",
+    "mm_id": "161"
+  },
+  {
+    "db_id": 378,
+    "name": "Fant\u00f4me Aux Plates",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 11,
+    "areas": [
+      "Bordure de Br\u00e2kmar"
+    ],
+    "race": "Fant\u00f4mes",
+    "mm_id": "203"
+  },
+  {
+    "db_id": 379,
+    "name": "Fant\u00f4me \u00c9g\u00e9rie",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 11,
+    "areas": [
+      "Bordure de Br\u00e2kmar"
+    ],
+    "race": "Fant\u00f4mes",
+    "mm_id": "205"
+  },
+  {
+    "db_id": 380,
+    "name": "Fant\u00f4me Hicide",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 11,
+    "areas": [
+      "Bordure de Br\u00e2kmar"
+    ],
+    "race": "Fant\u00f4mes",
+    "mm_id": "204"
+  },
+  {
+    "db_id": 382,
+    "name": "Tofu Royal",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 17,
+    "areas": [
+      "Tofulailler Royal"
+    ],
+    "race": "Gros Tofus",
+    "mm_id": "313"
+  },
+  {
+    "db_id": 384,
+    "name": "Aboub",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 7,
+    "areas": [
+      "Village des Dopeuls",
+      "Mine des Dopeuls"
+    ],
+    "race": "Dopeuls",
+    "mm_id": "132"
+  },
+  {
+    "db_id": 385,
+    "name": "Amlub",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 7,
+    "areas": [
+      "Village des Dopeuls",
+      "Baie de Cania"
+    ],
+    "race": "Dopeuls",
+    "mm_id": "133"
+  },
+  {
+    "db_id": 386,
+    "name": "Codem",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 7,
+    "areas": [
+      "Village des Dopeuls",
+      "Baie de Cania"
+    ],
+    "race": "Dopeuls",
+    "mm_id": "134"
+  },
+  {
+    "db_id": 387,
+    "name": "Gink",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 7,
+    "areas": [
+      "Village des Dopeuls",
+      "Mine des Dopeuls"
+    ],
+    "race": "Dopeuls",
+    "mm_id": "135"
+  },
+  {
+    "db_id": 388,
+    "name": "Kirevam",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 7,
+    "areas": [
+      "Village des Dopeuls",
+      "Baie de Cania"
+    ],
+    "race": "Dopeuls",
+    "mm_id": "136"
+  },
+  {
+    "db_id": 389,
+    "name": "Let Emoliug",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 7,
+    "areas": [
+      "Village des Dopeuls",
+      "Baie de Cania"
+    ],
+    "race": "Dopeuls",
+    "mm_id": "137"
+  },
+  {
+    "db_id": 390,
+    "name": "Nebgib",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 7,
+    "areas": [
+      "Village des Dopeuls",
+      "Mine des Dopeuls"
+    ],
+    "race": "Dopeuls",
+    "mm_id": "138"
+  },
+  {
+    "db_id": 391,
+    "name": "Nipul",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 7,
+    "areas": [
+      "Village des Dopeuls",
+      "Mine des Dopeuls"
+    ],
+    "race": "Dopeuls",
+    "mm_id": "139"
+  },
+  {
+    "db_id": 392,
+    "name": "Osurc",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 8,
+    "areas": [
+      "Village des Dopeuls",
+      "Mine des Dopeuls"
+    ],
+    "race": "Dopeuls",
+    "mm_id": "140"
+  },
+  {
+    "db_id": 393,
+    "name": "Susej",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 8,
+    "areas": [
+      "Village des Dopeuls",
+      "Baie de Cania"
+    ],
+    "race": "Dopeuls",
+    "mm_id": "141"
+  },
+  {
+    "db_id": 396,
+    "name": "Chafer Fantassin",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 6,
+    "areas": [
+      "Cimeti\u00e8re",
+      "Cryptes du cimeti\u00e8re",
+      "Bois de Litneg",
+      "Donjon des Squelettes"
+    ],
+    "race": "Chafers",
+    "mm_id": "113"
+  },
+  {
+    "db_id": 397,
+    "name": "Croc Gland Enrag\u00e9",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 4,
+    "areas": [
+      "Bordure de Br\u00e2kmar"
+    ],
+    "race": "Sidimonstres",
+    "mm_id": "80"
+  },
+  {
+    "db_id": 430,
+    "name": "Gel\u00e9e Royale Citron",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 19,
+    "areas": [
+      "Gelaxi\u00e8me dimension"
+    ],
+    "race": "Gel\u00e9es",
+    "mm_id": "341"
+  },
+  {
+    "db_id": 442,
+    "name": "Rat d'\u00c9goutant",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 9,
+    "areas": [
+      "Cloaque d'Amakna"
+    ],
+    "race": "Rats Makn\u00e9ens",
+    "mm_id": "169"
+  },
+  {
+    "db_id": 447,
+    "name": "Ramane d'\u00c9goutant",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 8,
+    "areas": [
+      "Cloaque d'Amakna"
+    ],
+    "race": "Rats Makn\u00e9ens",
+    "mm_id": "148"
+  },
+  {
+    "db_id": 449,
+    "name": "Rat d'Hyoactif",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 10,
+    "areas": [
+      "Cloaque d'Amakna"
+    ],
+    "race": "Rats Makn\u00e9ens",
+    "mm_id": "199"
+  },
+  {
+    "db_id": 450,
+    "name": "Gardienne des \u00c9gouts",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 18,
+    "areas": [
+      "Entrailles de Br\u00e2kmar",
+      "Canaux m\u00e9phitiques"
+    ],
+    "race": "Araknes",
+    "mm_id": "324"
+  },
+  {
+    "db_id": 457,
+    "name": "Shin Larve",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 17,
+    "areas": [
+      "Donjon des Larves"
+    ],
+    "race": "Grosses Larves",
+    "mm_id": "306"
+  },
+  {
+    "db_id": 465,
+    "name": "Sc\u00e9l\u00e9rat Strubien",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 6,
+    "areas": [
+      "\u00c9gouts d'Astrub"
+    ],
+    "race": "Rats Strubiens",
+    "mm_id": "118"
+  },
+  {
+    "db_id": 466,
+    "name": "Bandit Manchot",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 2,
+    "areas": [
+      "Passage vers Br\u00e2kmar"
+    ],
+    "race": "Bandits",
+    "mm_id": "25"
+  },
+  {
+    "db_id": 467,
+    "name": "Rose Obscure",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 5,
+    "areas": [
+      "Rives iridescentes"
+    ],
+    "race": "Plantes des champs",
+    "mm_id": "81"
+  },
+  {
+    "db_id": 473,
+    "name": "Tofu Malade",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 2,
+    "areas": [
+      "Souterrains d'Astrub"
+    ],
+    "race": "Animalades",
+    "mm_id": "21"
+  },
+  {
+    "db_id": 474,
+    "name": "Arakne Malade",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 1,
+    "areas": [
+      "Souterrains d'Astrub"
+    ],
+    "race": "Animalades",
+    "mm_id": "7"
+  },
+  {
+    "db_id": 475,
+    "name": "Milirat Strubien",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 3,
+    "areas": [
+      "\u00c9gouts d'Astrub"
+    ],
+    "race": "Rats Strubiens",
+    "mm_id": "53"
+  },
+  {
+    "db_id": 478,
+    "name": "Bworker",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 19,
+    "areas": [
+      "Grotte du Bworker"
+    ],
+    "race": "Bworks de Gisgoul",
+    "mm_id": "343"
+  },
+  {
+    "db_id": 483,
+    "name": "Craqueboule",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 5,
+    "areas": [
+      "Montagne des Craqueleurs",
+      "Pitons Rocheux des Craqueleurs",
+      "Montagne basse des Craqueleurs"
+    ],
+    "race": "Craqueleurs",
+    "mm_id": "88"
+  },
+  {
+    "db_id": 489,
+    "name": "Piou Rouge",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 1,
+    "areas": [
+      "Village d'Amakna",
+      "Cit\u00e9 d'Astrub",
+      "Faubourgs des artisans",
+      "Havres d'ivoire",
+      "C\u0153ur immacul\u00e9",
+      "Promontoire des cieux",
+      "La Cuirasse",
+      "L'Ancre",
+      "La Marmite",
+      "L'Enclume"
+    ],
+    "race": "Pious",
+    "mm_id": "10"
+  },
+  {
+    "db_id": 490,
+    "name": "Piou Vert",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 1,
+    "areas": [
+      "Village d'Amakna",
+      "Sufokia",
+      "Cit\u00e9 d'Astrub",
+      "Faubourgs des artisans",
+      "Havres d'ivoire",
+      "C\u0153ur immacul\u00e9",
+      "Promontoire des cieux",
+      "La Cuirasse",
+      "L'Ancre",
+      "La Marmite",
+      "L'Enclume"
+    ],
+    "race": "Pious",
+    "mm_id": "11"
+  },
+  {
+    "db_id": 491,
+    "name": "Piou Bleu",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 1,
+    "areas": [
+      "Village d'Amakna",
+      "Sufokia",
+      "Cit\u00e9 d'Astrub",
+      "Millifutaie",
+      "Faubourgs des artisans",
+      "Havres d'ivoire",
+      "C\u0153ur immacul\u00e9",
+      "Promontoire des cieux",
+      "La Cuirasse",
+      "L'Ancre",
+      "La Marmite",
+      "L'Enclume"
+    ],
+    "race": "Pious",
+    "mm_id": "8"
+  },
+  {
+    "db_id": 492,
+    "name": "Piou Rose",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 1,
+    "areas": [
+      "Village d'Amakna",
+      "Sufokia",
+      "Cit\u00e9 d'Astrub",
+      "Village des Bworks",
+      "Millifutaie",
+      "Contr\u00e9es oniriques",
+      "Faubourgs des artisans",
+      "Havres d'ivoire",
+      "C\u0153ur immacul\u00e9",
+      "Promontoire des cieux",
+      "La Cuirasse",
+      "L'Ancre",
+      "La Marmite",
+      "L'Enclume"
+    ],
+    "race": "Pious",
+    "mm_id": "13"
+  },
+  {
+    "db_id": 493,
+    "name": "Piou Jaune",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 1,
+    "areas": [
+      "Village d'Amakna",
+      "Sufokia",
+      "Cit\u00e9 d'Astrub",
+      "Millifutaie",
+      "Faubourgs des artisans",
+      "Havres d'ivoire",
+      "C\u0153ur immacul\u00e9",
+      "Promontoire des cieux",
+      "La Cuirasse",
+      "L'Ancre",
+      "La Marmite",
+      "L'Enclume"
+    ],
+    "race": "Pious",
+    "mm_id": "9"
+  },
+  {
+    "db_id": 495,
+    "name": "La Ouassingue",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 8,
+    "areas": [
+      "Cimeti\u00e8re d'Astrub"
+    ],
+    "race": "Monstres du repos",
+    "mm_id": "151"
+  },
+  {
+    "db_id": 496,
+    "name": "Le Ouassingue",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 8,
+    "areas": [
+      "Cimeti\u00e8re d'Astrub"
+    ],
+    "race": "Monstres du repos",
+    "mm_id": "152"
+  },
+  {
+    "db_id": 498,
+    "name": "Gargrouille",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 5,
+    "areas": [
+      "Cimeti\u00e8re d'Astrub",
+      "Maison Fant\u00f4me"
+    ],
+    "race": "Monstres du repos",
+    "mm_id": "91"
+  },
+  {
+    "db_id": 600,
+    "name": "Don Duss Ang",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 10,
+    "areas": [
+      "Antre du Dragon Cochon",
+      "Labyrinthe du Dragon Cochon"
+    ],
+    "race": "Porcos",
+    "mm_id": "190"
+  },
+  {
+    "db_id": 601,
+    "name": "Don Dorgan",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 11,
+    "areas": [
+      "Antre du Dragon Cochon",
+      "Labyrinthe du Dragon Cochon"
+    ],
+    "race": "Porcos",
+    "mm_id": "206"
+  },
+  {
+    "db_id": 603,
+    "name": "Cochon de Farle",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 6,
+    "areas": [
+      "Territoire des Porcos",
+      "Antre du Dragon Cochon",
+      "Labyrinthe du Dragon Cochon"
+    ],
+    "race": "Porcos",
+    "mm_id": "109"
+  },
+  {
+    "db_id": 650,
+    "name": "Abrakne",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 6,
+    "areas": [
+      "For\u00eat Sombre",
+      "Or\u00e9e de la for\u00eat des Abraknydes"
+    ],
+    "race": "Abraknydiens",
+    "mm_id": "115"
+  },
+  {
+    "db_id": 651,
+    "name": "Abrakne Sombre",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 12,
+    "areas": [
+      "For\u00eat Sombre",
+      "Domaine Ancestral"
+    ],
+    "race": "Abraknydiens Sombres",
+    "mm_id": "237"
+  },
+  {
+    "db_id": 652,
+    "name": "Champa Vert",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 3,
+    "areas": [
+      "Clairi\u00e8re de Brouce Boulgoure"
+    ],
+    "race": "Champas",
+    "mm_id": "45"
+  },
+  {
+    "db_id": 653,
+    "name": "Champa Rouge",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 5,
+    "areas": [
+      "Clairi\u00e8re de Brouce Boulgoure"
+    ],
+    "race": "Champas",
+    "mm_id": "87"
+  },
+  {
+    "db_id": 654,
+    "name": "Champa Bleu",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 5,
+    "areas": [
+      "Clairi\u00e8re de Brouce Boulgoure"
+    ],
+    "race": "Champas",
+    "mm_id": "85"
+  },
+  {
+    "db_id": 655,
+    "name": "Champa Marron",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 5,
+    "areas": [
+      "Clairi\u00e8re de Brouce Boulgoure"
+    ],
+    "race": "Champas",
+    "mm_id": "86"
+  },
+  {
+    "db_id": 666,
+    "name": "Dragodinde Dor\u00e9e Sauvage",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 12,
+    "areas": [
+      "Territoire des Dragodindes Sauvages"
+    ],
+    "race": "Dragodindes",
+    "mm_id": "238"
+  },
+  {
+    "db_id": 668,
+    "name": "Gamino",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 8,
+    "areas": [
+      "Centre du labyrinthe du Minotoror",
+      "Labyrinthe du Minotoror"
+    ],
+    "race": "Minos",
+    "mm_id": "147"
+  },
+  {
+    "db_id": 669,
+    "name": "Craqueleur L\u00e9gendaire",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 18,
+    "areas": [
+      "Pitons Rocheux des Craqueleurs"
+    ],
+    "race": "Craqueleurs",
+    "mm_id": "323"
+  },
+  {
+    "db_id": 670,
+    "name": "Koulosse",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 18,
+    "areas": [
+      "Caverne du Koulosse"
+    ],
+    "race": "Monstres des cavernes",
+    "mm_id": "333"
+  },
+  {
+    "db_id": 744,
+    "name": "Koalak Sanguin",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 13,
+    "areas": [
+      "Repaire de Skeunk",
+      "Vall\u00e9e de la Morh'Kitu"
+    ],
+    "race": "Koalaks mortels",
+    "mm_id": "250"
+  },
+  {
+    "db_id": 745,
+    "name": "Warko Violet",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 13,
+    "areas": [
+      "Repaire de Skeunk",
+      "Vall\u00e9e de la Morh'Kitu"
+    ],
+    "race": "Koalaks mortels",
+    "mm_id": "258"
+  },
+  {
+    "db_id": 746,
+    "name": "Warko Marron",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 12,
+    "areas": [
+      "Caverne du Koulosse",
+      "For\u00eat de Kaliptus",
+      "Canyon sauvage"
+    ],
+    "race": "Koalaks",
+    "mm_id": "228"
+  },
+  {
+    "db_id": 747,
+    "name": "Dok Alako",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 8,
+    "areas": [
+      "Caverne du Koulosse",
+      "Lacs enchant\u00e9s",
+      "For\u00eat de Kaliptus",
+      "Canyon sauvage",
+      "Antre du Koulosse"
+    ],
+    "race": "Koalaks",
+    "mm_id": "145"
+  },
+  {
+    "db_id": 748,
+    "name": "Koalak Immature",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 8,
+    "areas": [
+      "Caverne du Koulosse",
+      "Lacs enchant\u00e9s",
+      "For\u00eat de Kaliptus"
+    ],
+    "race": "Koalaks",
+    "mm_id": "146"
+  },
+  {
+    "db_id": 749,
+    "name": "Guerrier Koalak",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 12,
+    "areas": [
+      "Repaire de Skeunk",
+      "Vall\u00e9e de la Morh'Kitu"
+    ],
+    "race": "Koalaks mortels",
+    "mm_id": "225"
+  },
+  {
+    "db_id": 751,
+    "name": "Koalak Indigo",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 10,
+    "areas": [
+      "Caverne du Koulosse",
+      "Canyon sauvage",
+      "Contr\u00e9es oniriques"
+    ],
+    "race": "Koalaks sauvages",
+    "mm_id": "197"
+  },
+  {
+    "db_id": 752,
+    "name": "Koalak Coco",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 10,
+    "areas": [
+      "Caverne du Koulosse",
+      "Canyon sauvage",
+      "Contr\u00e9es oniriques"
+    ],
+    "race": "Koalaks sauvages",
+    "mm_id": "195"
+  },
+  {
+    "db_id": 753,
+    "name": "Koalak Griotte",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 10,
+    "areas": [
+      "Caverne du Koulosse",
+      "Canyon sauvage",
+      "Contr\u00e9es oniriques"
+    ],
+    "race": "Koalaks sauvages",
+    "mm_id": "196"
+  },
+  {
+    "db_id": 754,
+    "name": "Koalak Reinette",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 10,
+    "areas": [
+      "Caverne du Koulosse",
+      "Canyon sauvage",
+      "Repaire de Skeunk",
+      "Contr\u00e9es oniriques"
+    ],
+    "race": "Koalaks sauvages",
+    "mm_id": "198"
+  },
+  {
+    "db_id": 755,
+    "name": "Mama Koalak",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 13,
+    "areas": [
+      "Caverne du Koulosse",
+      "Canyon sauvage"
+    ],
+    "race": "Koalaks sauvages",
+    "mm_id": "255"
+  },
+  {
+    "db_id": 756,
+    "name": "Koalak Farouche",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 13,
+    "areas": [
+      "Repaire de Skeunk",
+      "Vall\u00e9e de la Morh'Kitu"
+    ],
+    "race": "Koalaks mortels",
+    "mm_id": "254"
+  },
+  {
+    "db_id": 758,
+    "name": "Ma\u00eetre Koalak",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 14,
+    "areas": [
+      "Cimeti\u00e8re primitif"
+    ],
+    "race": "Koalaks primitifs",
+    "mm_id": "272"
+  },
+  {
+    "db_id": 759,
+    "name": "Chevaucheur Koalak",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 12,
+    "areas": [
+      "Cimeti\u00e8re primitif"
+    ],
+    "race": "Koalaks primitifs",
+    "mm_id": "239"
+  },
+  {
+    "db_id": 760,
+    "name": "Momie Koalak",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 13,
+    "areas": [
+      "Cimeti\u00e8re primitif"
+    ],
+    "race": "Koalaks primitifs",
+    "mm_id": "256"
+  },
+  {
+    "db_id": 761,
+    "name": "Fossoyeur Koalak",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 12,
+    "areas": [
+      "Cimeti\u00e8re primitif"
+    ],
+    "race": "Koalaks primitifs",
+    "mm_id": "232"
+  },
+  {
+    "db_id": 763,
+    "name": "Drakoalak",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 14,
+    "areas": [
+      "Caverne du Koulosse",
+      "Canyon sauvage"
+    ],
+    "race": "Koalaks sauvages",
+    "mm_id": "269"
+  },
+  {
+    "db_id": 780,
+    "name": "Skeunk",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 18,
+    "areas": [
+      "Repaire de Skeunk"
+    ],
+    "race": "M\u00e9lomaniaques",
+    "mm_id": "334"
+  },
+  {
+    "db_id": 783,
+    "name": "Fauchalak",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 14,
+    "areas": [
+      "Repaire de Skeunk",
+      "Vall\u00e9e de la Morh'Kitu"
+    ],
+    "race": "Koalaks mortels",
+    "mm_id": "271"
+  },
+  {
+    "db_id": 784,
+    "name": "Piralak",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 12,
+    "areas": [
+      "Caverne du Koulosse",
+      "Lacs enchant\u00e9s"
+    ],
+    "race": "Koalaks",
+    "mm_id": "234"
+  },
+  {
+    "db_id": 785,
+    "name": "Koalak Forestier",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 12,
+    "areas": [
+      "For\u00eat de Kaliptus"
+    ],
+    "race": "Koalaks",
+    "mm_id": "233"
+  },
+  {
+    "db_id": 786,
+    "name": "P\u00e9keualak",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 12,
+    "areas": [
+      "Lacs enchant\u00e9s"
+    ],
+    "race": "Koalaks",
+    "mm_id": "235"
+  },
+  {
+    "db_id": 792,
+    "name": "Bworkette",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 17,
+    "areas": [
+      "Donjon des Bworks"
+    ],
+    "race": "Bworks d'Amakna",
+    "mm_id": "309"
+  },
+  {
+    "db_id": 797,
+    "name": "Scarabosse Dor\u00e9",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 17,
+    "areas": [
+      "Donjon des Scarafeuilles"
+    ],
+    "race": "Scarafeuilles",
+    "mm_id": "308"
+  },
+  {
+    "db_id": 799,
+    "name": "Tournesol Affam\u00e9",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 17,
+    "areas": [
+      "Grange du Tournesol Affam\u00e9"
+    ],
+    "race": "Plantes des champs",
+    "mm_id": "303"
+  },
+  {
+    "db_id": 827,
+    "name": "Minotot",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 19,
+    "areas": [
+      "Centre du labyrinthe du Minotoror"
+    ],
+    "race": "Minos",
+    "mm_id": "345"
+  },
+  {
+    "db_id": 829,
+    "name": "Serpiplume",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 10,
+    "areas": [
+      "\u00cele du Minotoror",
+      "Centre du labyrinthe du Minotoror",
+      "Labyrinthe du Minotoror"
+    ],
+    "race": "Minos",
+    "mm_id": "181"
+  },
+  {
+    "db_id": 830,
+    "name": "Scaratos",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 6,
+    "areas": [
+      "Centre du labyrinthe du Minotoror",
+      "Labyrinthe du Minotoror"
+    ],
+    "race": "Minos",
+    "mm_id": "110"
+  },
+  {
+    "db_id": 831,
+    "name": "Mominotor",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 17,
+    "areas": [
+      "Centre du labyrinthe du Minotoror",
+      "Labyrinthe du Minotoror"
+    ],
+    "race": "Minos",
+    "mm_id": "311"
+  },
+  {
+    "db_id": 832,
+    "name": "D\u00e9minoboule",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 17,
+    "areas": [
+      "Centre du labyrinthe du Minotoror",
+      "Labyrinthe du Minotoror"
+    ],
+    "race": "Minos",
+    "mm_id": "312"
+  },
+  {
+    "db_id": 834,
+    "name": "Minoskito",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 4,
+    "areas": [
+      "\u00cele du Minotoror"
+    ],
+    "race": "Minos",
+    "mm_id": "73"
+  },
+  {
+    "db_id": 835,
+    "name": "Mandrine",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 5,
+    "areas": [
+      "\u00cele du Minotoror"
+    ],
+    "race": "Minos",
+    "mm_id": "89"
+  },
+  {
+    "db_id": 836,
+    "name": "Kram\u00e9l\u00e9hon",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 5,
+    "areas": [
+      "\u00cele du Minotoror"
+    ],
+    "race": "Minos",
+    "mm_id": "99"
+  },
+  {
+    "db_id": 853,
+    "name": "Dragnarok",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 13,
+    "areas": [
+      "Sanctuaire des Dragoeufs",
+      "Antre de Crocabulia"
+    ],
+    "race": "Dragoeufs Protecteurs",
+    "mm_id": "242"
+  },
+  {
+    "db_id": 854,
+    "name": "Crocabulia",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 19,
+    "areas": [
+      "Antre de Crocabulia"
+    ],
+    "race": "Dragoeufs Protecteurs",
+    "mm_id": "347"
+  },
+  {
+    "db_id": 855,
+    "name": "Dragueuse",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 12,
+    "areas": [
+      "Sanctuaire des Dragoeufs",
+      "Antre de Crocabulia"
+    ],
+    "race": "Dragoeufs Protecteurs",
+    "mm_id": "224"
+  },
+  {
+    "db_id": 858,
+    "name": "Dragoss Charbon",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 14,
+    "areas": [
+      "Village des Dragoeufs",
+      "Souterrains des Dragoeufs",
+      "Repaire du Kharnozor"
+    ],
+    "race": "Dragoss",
+    "mm_id": "265"
+  },
+  {
+    "db_id": 862,
+    "name": "Draguaindrop",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 13,
+    "areas": [
+      "Sanctuaire des Dragoeufs",
+      "Antre de Crocabulia"
+    ],
+    "race": "Dragoeufs Protecteurs",
+    "mm_id": "243"
+  },
+  {
+    "db_id": 876,
+    "name": "Bwork",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 5,
+    "areas": [
+      "Campement des Bworks",
+      "Village des Bworks",
+      "Donjon des Bworks",
+      "Montagne basse des Craqueleurs"
+    ],
+    "race": "Bworks d'Amakna",
+    "mm_id": "97"
+  },
+  {
+    "db_id": 878,
+    "name": "Dragoss Calcaire",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 14,
+    "areas": [
+      "Village des Dragoeufs",
+      "Souterrains des Dragoeufs",
+      "Repaire du Kharnozor"
+    ],
+    "race": "Dragoss",
+    "mm_id": "263"
+  },
+  {
+    "db_id": 879,
+    "name": "Dragoss Argile",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 14,
+    "areas": [
+      "Village des Dragoeufs",
+      "Souterrains des Dragoeufs",
+      "Repaire du Kharnozor"
+    ],
+    "race": "Dragoss",
+    "mm_id": "264"
+  },
+  {
+    "db_id": 905,
+    "name": "Dragoss Ardoise",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 14,
+    "areas": [
+      "Village des Dragoeufs",
+      "Souterrains des Dragoeufs",
+      "Repaire du Kharnozor"
+    ],
+    "race": "Dragoss",
+    "mm_id": "266"
+  },
+  {
+    "db_id": 920,
+    "name": "Pichon Orange",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 4,
+    "areas": [
+      "Calanques d'Astrub",
+      "Ch\u00e2teau Ensabl\u00e9"
+    ],
+    "race": "Pichons",
+    "mm_id": "68"
+  },
+  {
+    "db_id": 921,
+    "name": "Pichon Bleu",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 4,
+    "areas": [
+      "Calanques d'Astrub",
+      "Ch\u00e2teau Ensabl\u00e9"
+    ],
+    "race": "Pichons",
+    "mm_id": "67"
+  },
+  {
+    "db_id": 922,
+    "name": "Pichon Blanc",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 4,
+    "areas": [
+      "Calanques d'Astrub",
+      "Ch\u00e2teau Ensabl\u00e9"
+    ],
+    "race": "Pichons",
+    "mm_id": "66"
+  },
+  {
+    "db_id": 923,
+    "name": "Pichon Vert",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 4,
+    "areas": [
+      "Calanques d'Astrub",
+      "Ch\u00e2teau Ensabl\u00e9"
+    ],
+    "race": "Pichons",
+    "mm_id": "69"
+  },
+  {
+    "db_id": 924,
+    "name": "Pichon Kloune",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 6,
+    "areas": [
+      "Ch\u00e2teau Ensabl\u00e9"
+    ],
+    "race": "Pichons",
+    "mm_id": "114"
+  },
+  {
+    "db_id": 926,
+    "name": "Raul Mops",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 10,
+    "areas": [
+      "Rivage sufokien"
+    ],
+    "race": "Monstres des plages",
+    "mm_id": "184"
+  },
+  {
+    "db_id": 927,
+    "name": "\u00c9toile de la Mer d'Asse",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 4,
+    "areas": [
+      "Rivage sufokien"
+    ],
+    "race": "Monstres des plages",
+    "mm_id": "65"
+  },
+  {
+    "db_id": 928,
+    "name": "Mob l'\u00c9ponge",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 17,
+    "areas": [
+      "Ch\u00e2teau Ensabl\u00e9"
+    ],
+    "race": "Pichons",
+    "mm_id": "301"
+  },
+  {
+    "db_id": 932,
+    "name": "Fant\u00f4me Apero",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 11,
+    "areas": [
+      "Bordure de Br\u00e2kmar"
+    ],
+    "race": "Fant\u00f4mes",
+    "mm_id": "202"
+  },
+  {
+    "db_id": 939,
+    "name": "Rat Noir",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 17,
+    "areas": [
+      "Repaire de Sphincter Cell",
+      "Sousourici\u00e8re du Rat Noir"
+    ],
+    "race": "Rats Br\u00e2kmariens",
+    "mm_id": "318"
+  },
+  {
+    "db_id": 940,
+    "name": "Rat Blanc",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 17,
+    "areas": [
+      "Repaire de Sphincter Cell",
+      "Garde-manger du Rat Blanc"
+    ],
+    "race": "Rats Bontariens",
+    "mm_id": "319"
+  },
+  {
+    "db_id": 943,
+    "name": "Sphincter Cell",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 19,
+    "areas": [
+      "Repaire de Sphincter Cell"
+    ],
+    "race": "Gang de Sphincter Cell",
+    "mm_id": "344"
+  },
+  {
+    "db_id": 954,
+    "name": "Moumoule",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 10,
+    "areas": [
+      "Rivage sufokien"
+    ],
+    "race": "Monstres des plages",
+    "mm_id": "188"
+  },
+  {
+    "db_id": 1019,
+    "name": "Bitouf des Plaines",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 11,
+    "areas": [
+      "Plaines herbeuses",
+      "Goulet du Rasboul"
+    ],
+    "race": "Herboricoles",
+    "mm_id": "213"
+  },
+  {
+    "db_id": 1020,
+    "name": "Bitouf A\u00e9rien",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 15,
+    "areas": [
+      "Canop\u00e9e du Kimbo",
+      "Tronc de l'arbre Hakam",
+      "Feuillage de l'arbre Hakam"
+    ],
+    "race": "Peuple de l'Arbre",
+    "mm_id": "281"
+  },
+  {
+    "db_id": 1022,
+    "name": "Corailleur",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 10,
+    "areas": [
+      "Plage de Corail",
+      "Grotte Hesque",
+      "Contr\u00e9es oniriques"
+    ],
+    "race": "Colonie du Magistral",
+    "mm_id": "182"
+  },
+  {
+    "db_id": 1025,
+    "name": "Craqueleur Poli",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 11,
+    "areas": [
+      "Plaines herbeuses",
+      "Goulet du Rasboul"
+    ],
+    "race": "Herboricoles",
+    "mm_id": "214"
+  },
+  {
+    "db_id": 1026,
+    "name": "Craqueboule Poli",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 9,
+    "areas": [
+      "Plaines herbeuses",
+      "Goulet du Rasboul"
+    ],
+    "race": "Herboricoles",
+    "mm_id": "162"
+  },
+  {
+    "db_id": 1027,
+    "name": "Corailleur Magistral",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 18,
+    "areas": [
+      "Grotte Hesque"
+    ],
+    "race": "Colonie du Magistral",
+    "mm_id": "328"
+  },
+  {
+    "db_id": 1029,
+    "name": "Floribonde",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 13,
+    "areas": [
+      "Jungle obscure",
+      "Laboratoire du Tynril"
+    ],
+    "race": "Florifaune obscure",
+    "mm_id": "252"
+  },
+  {
+    "db_id": 1041,
+    "name": "Bitouf Sombre",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 13,
+    "areas": [
+      "Jungle obscure",
+      "Laboratoire du Tynril"
+    ],
+    "race": "Florifaune obscure",
+    "mm_id": "251"
+  },
+  {
+    "db_id": 1043,
+    "name": "Poolay",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 14,
+    "areas": [
+      "Canop\u00e9e du Kimbo",
+      "Tronc de l'arbre Hakam",
+      "Feuillage de l'arbre Hakam"
+    ],
+    "race": "Peuple de l'Arbre",
+    "mm_id": "273"
+  },
+  {
+    "db_id": 1044,
+    "name": "Kaskargo",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 15,
+    "areas": [
+      "Canop\u00e9e du Kimbo",
+      "Tronc de l'arbre Hakam",
+      "Feuillage de l'arbre Hakam"
+    ],
+    "race": "Peuple de l'Arbre",
+    "mm_id": "280"
+  },
+  {
+    "db_id": 1045,
+    "name": "Kimbo",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 19,
+    "areas": [
+      "Canop\u00e9e du Kimbo"
+    ],
+    "race": "Peuple de l'Arbre",
+    "mm_id": "351"
+  },
+  {
+    "db_id": 1046,
+    "name": "Meupette",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 12,
+    "areas": [
+      "Canop\u00e9e du Kimbo",
+      "Tronc de l'arbre Hakam"
+    ],
+    "race": "Peuple de l'Arbre",
+    "mm_id": "240"
+  },
+  {
+    "db_id": 1047,
+    "name": "Abrakleur Clair",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 15,
+    "areas": [
+      "Canop\u00e9e du Kimbo",
+      "Tronc de l'arbre Hakam"
+    ],
+    "race": "Peuple de l'Arbre",
+    "mm_id": "282"
+  },
+  {
+    "db_id": 1048,
+    "name": "Sparo",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 10,
+    "areas": [
+      "Arche d'Otoma\u00ef",
+      "Cale de l'arche d'Otoma\u00ef"
+    ],
+    "race": "Pirates de l'Arche d'Otoma\u00ef",
+    "mm_id": "200"
+  },
+  {
+    "db_id": 1049,
+    "name": "Barbroussa",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 11,
+    "areas": [
+      "Arche d'Otoma\u00ef",
+      "Cale de l'arche d'Otoma\u00ef"
+    ],
+    "race": "Pirates de l'Arche d'Otoma\u00ef",
+    "mm_id": "207"
+  },
+  {
+    "db_id": 1051,
+    "name": "Gourlo le Terrible",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 18,
+    "areas": [
+      "Cale de l'arche d'Otoma\u00ef"
+    ],
+    "race": "Pirates de l'Arche d'Otoma\u00ef",
+    "mm_id": "329"
+  },
+  {
+    "db_id": 1052,
+    "name": "Ma\u00eetre Zoth",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 15,
+    "areas": [
+      "Village des Zoths",
+      "Village de la Canop\u00e9e"
+    ],
+    "race": "Zoths",
+    "mm_id": "283"
+  },
+  {
+    "db_id": 1053,
+    "name": "Gamine Zoth",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 13,
+    "areas": [
+      "Village des Zoths",
+      "Village de la Canop\u00e9e",
+      "Contr\u00e9es oniriques"
+    ],
+    "race": "Zoths",
+    "mm_id": "259"
+  },
+  {
+    "db_id": 1054,
+    "name": "Guerrier Zoth",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 13,
+    "areas": [
+      "Village des Zoths",
+      "Village de la Canop\u00e9e"
+    ],
+    "race": "Zoths",
+    "mm_id": "260"
+  },
+  {
+    "db_id": 1055,
+    "name": "Disciple Zoth",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 13,
+    "areas": [
+      "Village des Zoths",
+      "Village de la Canop\u00e9e"
+    ],
+    "race": "Zoths",
+    "mm_id": "248"
+  },
+  {
+    "db_id": 1056,
+    "name": "Sergent Zoth",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 15,
+    "areas": [
+      "Village des Zoths",
+      "Village de la Canop\u00e9e"
+    ],
+    "race": "Zoths",
+    "mm_id": "279"
+  },
+  {
+    "db_id": 1057,
+    "name": "Roissingue",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 15,
+    "areas": [
+      "Tourbi\u00e8re sans fond",
+      "Tourbi\u00e8re naus\u00e9abonde",
+      "Antre du Kralamoure G\u00e9ant"
+    ],
+    "race": "Monstres des Tourbi\u00e8res",
+    "mm_id": "296"
+  },
+  {
+    "db_id": 1058,
+    "name": "Tourbassingue",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 14,
+    "areas": [
+      "Tourbi\u00e8re sans fond",
+      "Tourbi\u00e8re naus\u00e9abonde",
+      "Antre du Kralamoure G\u00e9ant"
+    ],
+    "race": "Monstres des Tourbi\u00e8res",
+    "mm_id": "261"
+  },
+  {
+    "db_id": 1059,
+    "name": "Bourbassingue",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 13,
+    "areas": [
+      "Tourbi\u00e8re sans fond",
+      "Tourbi\u00e8re naus\u00e9abonde",
+      "Antre du Kralamoure G\u00e9ant"
+    ],
+    "race": "Monstres des Tourbi\u00e8res",
+    "mm_id": "257"
+  },
+  {
+    "db_id": 1060,
+    "name": "Crustorail Koura\u00e7ao",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 7,
+    "areas": [
+      "Plage de Corail",
+      "Grotte Hesque"
+    ],
+    "race": "Colonie du Magistral",
+    "mm_id": "122"
+  },
+  {
+    "db_id": 1061,
+    "name": "Crustorail Malibout",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 7,
+    "areas": [
+      "Plage de Corail",
+      "Grotte Hesque"
+    ],
+    "race": "Colonie du Magistral",
+    "mm_id": "123"
+  },
+  {
+    "db_id": 1062,
+    "name": "Crustorail Passaoh",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 7,
+    "areas": [
+      "Plage de Corail",
+      "Grotte Hesque"
+    ],
+    "race": "Colonie du Magistral",
+    "mm_id": "125"
+  },
+  {
+    "db_id": 1063,
+    "name": "Crustorail Morito",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 7,
+    "areas": [
+      "Plage de Corail",
+      "Grotte Hesque"
+    ],
+    "race": "Colonie du Magistral",
+    "mm_id": "124"
+  },
+  {
+    "db_id": 1064,
+    "name": "Palmifleur Koura\u00e7ao",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 9,
+    "areas": [
+      "Plage de Corail",
+      "Grotte Hesque"
+    ],
+    "race": "Colonie du Magistral",
+    "mm_id": "170"
+  },
+  {
+    "db_id": 1065,
+    "name": "Palmifleur Malibout",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 8,
+    "areas": [
+      "Plage de Corail",
+      "Grotte Hesque"
+    ],
+    "race": "Colonie du Magistral",
+    "mm_id": "153"
+  },
+  {
+    "db_id": 1066,
+    "name": "Palmifleur Passaoh",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 8,
+    "areas": [
+      "Plage de Corail",
+      "Grotte Hesque"
+    ],
+    "race": "Colonie du Magistral",
+    "mm_id": "155"
+  },
+  {
+    "db_id": 1067,
+    "name": "Palmifleur Morito",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 8,
+    "areas": [
+      "Plage de Corail",
+      "Grotte Hesque"
+    ],
+    "race": "Colonie du Magistral",
+    "mm_id": "154"
+  },
+  {
+    "db_id": 1068,
+    "name": "Mufafah",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 11,
+    "areas": [
+      "Plaines herbeuses",
+      "Goulet du Rasboul"
+    ],
+    "race": "Herboricoles",
+    "mm_id": "215"
+  },
+  {
+    "db_id": 1069,
+    "name": "Kido",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 11,
+    "areas": [
+      "Plaines herbeuses",
+      "Goulet du Rasboul"
+    ],
+    "race": "Herboricoles",
+    "mm_id": "218"
+  },
+  {
+    "db_id": 1070,
+    "name": "Kilibriss",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 11,
+    "areas": [
+      "Plaines herbeuses",
+      "Goulet du Rasboul"
+    ],
+    "race": "Herboricoles",
+    "mm_id": "219"
+  },
+  {
+    "db_id": 1071,
+    "name": "Silf le Rasboul Majeur",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 19,
+    "areas": [
+      "Goulet du Rasboul"
+    ],
+    "race": "Herboricoles",
+    "mm_id": "346"
+  },
+  {
+    "db_id": 1072,
+    "name": "Tynril Constern\u00e9",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 18,
+    "areas": [
+      "Laboratoire du Tynril"
+    ],
+    "race": "Florifaune obscure",
+    "mm_id": "338"
+  },
+  {
+    "db_id": 1073,
+    "name": "Brouture",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 13,
+    "areas": [
+      "Jungle obscure",
+      "Laboratoire du Tynril"
+    ],
+    "race": "Florifaune obscure",
+    "mm_id": "249"
+  },
+  {
+    "db_id": 1074,
+    "name": "Nerbe",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 11,
+    "areas": [
+      "Jungle obscure",
+      "Laboratoire du Tynril"
+    ],
+    "race": "Florifaune obscure",
+    "mm_id": "209"
+  },
+  {
+    "db_id": 1075,
+    "name": "F\u00e9corce",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 13,
+    "areas": [
+      "Jungle obscure",
+      "Laboratoire du Tynril"
+    ],
+    "race": "Florifaune obscure",
+    "mm_id": "253"
+  },
+  {
+    "db_id": 1076,
+    "name": "Chiendent",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 11,
+    "areas": [
+      "Jungle obscure",
+      "Laboratoire du Tynril"
+    ],
+    "race": "Florifaune obscure",
+    "mm_id": "201"
+  },
+  {
+    "db_id": 1077,
+    "name": "Abrakleur Sombre",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 14,
+    "areas": [
+      "Jungle obscure",
+      "Laboratoire du Tynril"
+    ],
+    "race": "Florifaune obscure",
+    "mm_id": "262"
+  },
+  {
+    "db_id": 1085,
+    "name": "Tynril D\u00e9concert\u00e9",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 18,
+    "areas": [
+      "Laboratoire du Tynril"
+    ],
+    "race": "Florifaune obscure",
+    "mm_id": "339"
+  },
+  {
+    "db_id": 1086,
+    "name": "Tynril Perfide",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 18,
+    "areas": [
+      "Laboratoire du Tynril"
+    ],
+    "race": "Florifaune obscure",
+    "mm_id": "340"
+  },
+  {
+    "db_id": 1087,
+    "name": "Tynril Ahuri",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 18,
+    "areas": [
+      "Laboratoire du Tynril"
+    ],
+    "race": "Florifaune obscure",
+    "mm_id": "337"
+  },
+  {
+    "db_id": 1096,
+    "name": "Le Ouassingue Entourb\u00e9",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 8,
+    "areas": [
+      "Tourbi\u00e8re sans fond",
+      "Tourbi\u00e8re naus\u00e9abonde",
+      "Antre du Kralamoure G\u00e9ant"
+    ],
+    "race": "Monstres des Tourbi\u00e8res",
+    "mm_id": "149"
+  },
+  {
+    "db_id": 1153,
+    "name": "Tromperelle",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 15,
+    "areas": [
+      "Temple du Grand Ougah",
+      "Domaine des Fungus"
+    ],
+    "race": "Fungus",
+    "mm_id": "286"
+  },
+  {
+    "db_id": 1154,
+    "name": "Champaknyde",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 15,
+    "areas": [
+      "Temple du Grand Ougah",
+      "Domaine des Fungus"
+    ],
+    "race": "Fungus",
+    "mm_id": "284"
+  },
+  {
+    "db_id": 1155,
+    "name": "Champodonte",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 15,
+    "areas": [
+      "Temple du Grand Ougah",
+      "Caverne des Fungus"
+    ],
+    "race": "Fungus",
+    "mm_id": "287"
+  },
+  {
+    "db_id": 1156,
+    "name": "Champmane",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 15,
+    "areas": [
+      "Temple du Grand Ougah",
+      "Caverne des Fungus",
+      "Domaine des Fungus"
+    ],
+    "race": "Fungus",
+    "mm_id": "292"
+  },
+  {
+    "db_id": 1157,
+    "name": "Champbis",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 15,
+    "areas": [
+      "Temple du Grand Ougah",
+      "Caverne des Fungus"
+    ],
+    "race": "Fungus",
+    "mm_id": "290"
+  },
+  {
+    "db_id": 1158,
+    "name": "Champ \u00e0 Gnons",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 15,
+    "areas": [
+      "Temple du Grand Ougah",
+      "Caverne des Fungus",
+      "Domaine des Fungus"
+    ],
+    "race": "Fungus",
+    "mm_id": "291"
+  },
+  {
+    "db_id": 1159,
+    "name": "Ougah",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 19,
+    "areas": [
+      "Temple du Grand Ougah"
+    ],
+    "race": "Fungus",
+    "mm_id": "350"
+  },
+  {
+    "db_id": 1184,
+    "name": "Blop Coco Royal",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 17,
+    "areas": [
+      "Clos des Blops",
+      "Antre du Blop Multicolore Royal"
+    ],
+    "race": "Blops",
+    "mm_id": "314"
+  },
+  {
+    "db_id": 1185,
+    "name": "Blop Griotte Royal",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 17,
+    "areas": [
+      "Clos des Blops",
+      "Antre du Blop Multicolore Royal"
+    ],
+    "race": "Blops",
+    "mm_id": "315"
+  },
+  {
+    "db_id": 1186,
+    "name": "Blop Indigo Royal",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 17,
+    "areas": [
+      "Clos des Blops",
+      "Antre du Blop Multicolore Royal"
+    ],
+    "race": "Blops",
+    "mm_id": "316"
+  },
+  {
+    "db_id": 1187,
+    "name": "Blop Reinette Royal",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 17,
+    "areas": [
+      "Clos des Blops",
+      "Antre du Blop Multicolore Royal"
+    ],
+    "race": "Blops",
+    "mm_id": "317"
+  },
+  {
+    "db_id": 1188,
+    "name": "Blop Multicolore Royal",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 18,
+    "areas": [
+      "Antre du Blop Multicolore Royal"
+    ],
+    "race": "Blops",
+    "mm_id": "327"
+  },
+  {
+    "db_id": 2270,
+    "name": "Piradain le Pingre",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 784,
+    "step": 31,
+    "areas": [
+      "Lacs enchant\u00e9s"
+    ],
+    "race": "Koalaks",
+    "mm_id": "582"
+  },
+  {
+    "db_id": 2271,
+    "name": "P\u00e9keutar le Tireur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 786,
+    "step": 31,
+    "areas": [
+      "Lacs enchant\u00e9s"
+    ],
+    "race": "Koalaks",
+    "mm_id": "581"
+  },
+  {
+    "db_id": 2272,
+    "name": "Pichakot\u00e9 le D\u00e9goutant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 923,
+    "step": 23,
+    "areas": [
+      "Calanques d'Astrub"
+    ],
+    "race": "Pichons",
+    "mm_id": "417"
+  },
+  {
+    "db_id": 2273,
+    "name": "Ratlbol l'Aigri",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 442,
+    "step": 28,
+    "areas": [
+      "Cloaque d'Amakna"
+    ],
+    "race": "Rats Makn\u00e9ens",
+    "mm_id": "516"
+  },
+  {
+    "db_id": 2275,
+    "name": "Rat\u00e9haifaim le Professeur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 449,
+    "step": 29,
+    "areas": [
+      "Cloaque d'Amakna"
+    ],
+    "race": "Rats Makn\u00e9ens",
+    "mm_id": "543"
+  },
+  {
+    "db_id": 2276,
+    "name": "Ribibi le Cher",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 108,
+    "step": 24,
+    "areas": [
+      "Cimeti\u00e8re",
+      "Bois de Litneg"
+    ],
+    "race": "Chafers",
+    "mm_id": "451"
+  },
+  {
+    "db_id": 2277,
+    "name": "Rostensyl la Cuisini\u00e8re",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 467,
+    "step": 23,
+    "areas": [
+      "Rives iridescentes"
+    ],
+    "race": "Plantes des champs",
+    "mm_id": "429"
+  },
+  {
+    "db_id": 2278,
+    "name": "P\u00e9tarfoutu le Mouill\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 6254,
+    "step": 32,
+    "areas": [
+      "Feudala"
+    ],
+    "race": "Firefoux",
+    "mm_id": "608"
+  },
+  {
+    "db_id": 2279,
+    "name": "Sampi l'Eternel",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 297,
+    "step": 27,
+    "areas": [
+      "Plaine des Porkass"
+    ],
+    "race": "Porkass",
+    "mm_id": "502"
+  },
+  {
+    "db_id": 2280,
+    "name": "Scap\u00e9 l'Ep\u00e9e",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 241,
+    "step": 24,
+    "areas": [
+      "Plaine des Scarafeuilles"
+    ],
+    "race": "Scarafeuilles",
+    "mm_id": "447"
+  },
+  {
+    "db_id": 2281,
+    "name": "Scarfayss le Balafr\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 198,
+    "step": 24,
+    "areas": [
+      "Plaine des Scarafeuilles"
+    ],
+    "race": "Scarafeuilles",
+    "mm_id": "448"
+  },
+  {
+    "db_id": 2282,
+    "name": "Scarouarze l'Epop\u00e9e",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 194,
+    "step": 24,
+    "areas": [
+      "Plaine des Scarafeuilles"
+    ],
+    "race": "Scarafeuilles",
+    "mm_id": "449"
+  },
+  {
+    "db_id": 2283,
+    "name": "Scaramel le Fondant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 240,
+    "step": 24,
+    "areas": [
+      "Plaine des Scarafeuilles"
+    ],
+    "race": "Scarafeuilles",
+    "mm_id": "450"
+  },
+  {
+    "db_id": 2285,
+    "name": "Scorpit\u00e8ne l'Enflamm\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 298,
+    "step": 25,
+    "areas": [
+      "D\u00e9solation de Sidimote"
+    ],
+    "race": "Sidimonstres",
+    "mm_id": "466"
+  },
+  {
+    "db_id": 2286,
+    "name": "Serpistol l'Illustre",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 288,
+    "step": 21,
+    "areas": [
+      "Champs de Cania"
+    ],
+    "race": "Animaux des Champs",
+    "mm_id": "381"
+  },
+  {
+    "db_id": 2287,
+    "name": "Serpistule le Purulent",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 829,
+    "step": 28,
+    "areas": [
+      "\u00cele du Minotoror",
+      "Labyrinthe du Minotoror"
+    ],
+    "race": "Minos",
+    "mm_id": "528"
+  },
+  {
+    "db_id": 2289,
+    "name": "Susbewl l'Hypocrite",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 393,
+    "step": 26,
+    "areas": [
+      "Village des Dopeuls",
+      "Baie de Cania"
+    ],
+    "race": "Dopeuls",
+    "mm_id": "488"
+  },
+  {
+    "db_id": 2292,
+    "name": "Tikosto le Mousse",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 208,
+    "step": 21,
+    "areas": [
+      "Plage de la Tortue",
+      "\u00cele des naufrag\u00e9s"
+    ],
+    "race": "Palmikos",
+    "mm_id": "390"
+  },
+  {
+    "db_id": 2293,
+    "name": "Tiwalp\u00e9 le D\u00e9v\u00eatu",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 96,
+    "step": 21,
+    "areas": [
+      "\u00cele de la Cawotte"
+    ],
+    "race": "Wabbits",
+    "mm_id": "384"
+  },
+  {
+    "db_id": 2294,
+    "name": "Tiwoflan le L\u00e2che",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 72,
+    "step": 21,
+    "areas": [
+      "\u00cele de la Cawotte"
+    ],
+    "race": "Wabbits",
+    "mm_id": "385"
+  },
+  {
+    "db_id": 2295,
+    "name": "Tortenssia la Fleurie",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 221,
+    "step": 22,
+    "areas": [
+      "Plage de la Tortue"
+    ],
+    "race": "Tortues de Moon",
+    "mm_id": "411"
+  },
+  {
+    "db_id": 2296,
+    "name": "Tortilleur le Coul\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 222,
+    "step": 23,
+    "areas": [
+      "Plage de la Tortue"
+    ],
+    "race": "Tortues de Moon",
+    "mm_id": "425"
+  },
+  {
+    "db_id": 2297,
+    "name": "Tortorak le Cornu",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 220,
+    "step": 23,
+    "areas": [
+      "Plage de la Tortue"
+    ],
+    "race": "Tortues de Moon",
+    "mm_id": "418"
+  },
+  {
+    "db_id": 2298,
+    "name": "Torthur la Lutte",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 223,
+    "step": 22,
+    "areas": [
+      "Plage de la Tortue"
+    ],
+    "race": "Tortues de Moon",
+    "mm_id": "405"
+  },
+  {
+    "db_id": 2299,
+    "name": "Tronkoneuz la Tranchante",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 256,
+    "step": 25,
+    "areas": [
+      "Or\u00e9e de la for\u00eat des Abraknydes"
+    ],
+    "race": "Abraknydiens",
+    "mm_id": "461"
+  },
+  {
+    "db_id": 2300,
+    "name": "Trooy\u00e9 l'Oxyd\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 233,
+    "step": 33,
+    "areas": [
+      "Bois de Litneg"
+    ],
+    "race": "Troolls de Litneg",
+    "mm_id": "615"
+  },
+  {
+    "db_id": 2301,
+    "name": "Trukul le Lent",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 215,
+    "step": 21,
+    "areas": [
+      "Jungle Interdite"
+    ],
+    "race": "Monstres de la Jungle Interdite",
+    "mm_id": "391"
+  },
+  {
+    "db_id": 2302,
+    "name": "Vampunor le Glacial",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 127,
+    "step": 22,
+    "areas": [
+      "Cryptes du cimeti\u00e8re"
+    ],
+    "race": "B\u00eates de la nuit",
+    "mm_id": "395"
+  },
+  {
+    "db_id": 2303,
+    "name": "Crachefouxtre le Surpris",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 6251,
+    "step": 33,
+    "areas": [
+      "Feudala"
+    ],
+    "race": "Firefoux",
+    "mm_id": "622"
+  },
+  {
+    "db_id": 2304,
+    "name": "Wabbitud le Constant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 64,
+    "step": 22,
+    "areas": [
+      "\u00cele de la Cawotte",
+      "\u00celot de la Couronne"
+    ],
+    "race": "Wabbits",
+    "mm_id": "406"
+  },
+  {
+    "db_id": 2305,
+    "name": "Watdogue le Bien Nomm\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 179,
+    "step": 24,
+    "areas": [
+      "\u00celot des Tombeaux"
+    ],
+    "race": "Wabbits",
+    "mm_id": "441"
+  },
+  {
+    "db_id": 2306,
+    "name": "Warkolad l'Etreinte",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 746,
+    "step": 31,
+    "areas": [
+      "For\u00eat de Kaliptus",
+      "Canyon sauvage"
+    ],
+    "race": "Koalaks",
+    "mm_id": "574"
+  },
+  {
+    "db_id": 2307,
+    "name": "Wara l'Amer",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 745,
+    "step": 32,
+    "areas": [
+      "Vall\u00e9e de la Morh'Kitu"
+    ],
+    "race": "Koalaks mortels",
+    "mm_id": "599"
+  },
+  {
+    "db_id": 2308,
+    "name": "Wok\u00e8nr\u00f4l le Danseur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 97,
+    "step": 26,
+    "areas": [
+      "\u00celot de Waldo",
+      "\u00celot de la Couronne"
+    ],
+    "race": "Wabbits",
+    "mm_id": "477"
+  },
+  {
+    "db_id": 2309,
+    "name": "Abrakroc l'\u00e9dent\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 47,
+    "step": 24,
+    "areas": [
+      "Or\u00e9e de la for\u00eat des Abraknydes"
+    ],
+    "race": "Abraknydiens",
+    "mm_id": "445"
+  },
+  {
+    "db_id": 2310,
+    "name": "Arakule la Revancharde",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 52,
+    "step": 20,
+    "areas": [
+      "Campagne d'Amakna"
+    ],
+    "race": "Vermines des champs",
+    "mm_id": "354"
+  },
+  {
+    "db_id": 2311,
+    "name": "Arabord la Cruche",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 259,
+    "step": 26,
+    "areas": [
+      "Or\u00e9e de la for\u00eat des Abraknydes"
+    ],
+    "race": "Araknes",
+    "mm_id": "475"
+  },
+  {
+    "db_id": 2312,
+    "name": "Arachitik la Souffreteuse",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 474,
+    "step": 20,
+    "areas": [
+      "Souterrains d'Astrub"
+    ],
+    "race": "Animalades",
+    "mm_id": "358"
+  },
+  {
+    "db_id": 2313,
+    "name": "Bandapar l'Exclu",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 466,
+    "step": 21,
+    "areas": [
+      "Passage vers Br\u00e2kmar"
+    ],
+    "race": "Bandits",
+    "mm_id": "372"
+  },
+  {
+    "db_id": 2314,
+    "name": "Bandson le Tonitruant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 155,
+    "step": 21,
+    "areas": [
+      "Territoire des Bandits"
+    ],
+    "race": "Bandits",
+    "mm_id": "387"
+  },
+  {
+    "db_id": 2315,
+    "name": "Boudalf le Blanc",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 134,
+    "step": 20,
+    "areas": [
+      "Coin des Bouftous",
+      "Tain\u00e9la"
+    ],
+    "race": "Bouftous",
+    "mm_id": "355"
+  },
+  {
+    "db_id": 2316,
+    "name": "Boulgourvil le Lointain",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 149,
+    "step": 20,
+    "areas": [
+      "Coin des Bouftous",
+      "Tain\u00e9la"
+    ],
+    "race": "Bouftous",
+    "mm_id": "356"
+  },
+  {
+    "db_id": 2317,
+    "name": "Boufd\u00e9gou le Refoulant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 101,
+    "step": 21,
+    "areas": [
+      "Coin des Bouftous",
+      "Tain\u00e9la"
+    ],
+    "race": "Bouftous",
+    "mm_id": "377"
+  },
+  {
+    "db_id": 2318,
+    "name": "Boudur le Raide",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 153,
+    "step": 21,
+    "areas": [
+      "Territoire des Bandits",
+      "Passage vers Br\u00e2kmar"
+    ],
+    "race": "Bandits",
+    "mm_id": "383"
+  },
+  {
+    "db_id": 2319,
+    "name": "Chafemal le Bagarreur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 54,
+    "step": 25,
+    "areas": [
+      "Cimeti\u00e8re",
+      "Bois de Litneg"
+    ],
+    "race": "Chafers",
+    "mm_id": "463"
+  },
+  {
+    "db_id": 2320,
+    "name": "Chafmarcel le F\u00eatard",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 291,
+    "step": 26,
+    "areas": [
+      "Cimeti\u00e8re des H\u00e9ros",
+      "Cimeti\u00e8re des Tortur\u00e9s",
+      "Bois de Litneg"
+    ],
+    "race": "Chafers",
+    "mm_id": "490"
+  },
+  {
+    "db_id": 2321,
+    "name": "Chafalfer l'Optimiste",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 110,
+    "step": 24,
+    "areas": [
+      "Cimeti\u00e8re",
+      "Bois de Litneg"
+    ],
+    "race": "Chafers",
+    "mm_id": "442"
+  },
+  {
+    "db_id": 2322,
+    "name": "Chalan le Commer\u00e7ant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 290,
+    "step": 26,
+    "areas": [
+      "Cimeti\u00e8re des H\u00e9ros",
+      "Cimeti\u00e8re des Tortur\u00e9s",
+      "Bois de Litneg"
+    ],
+    "race": "Chafers",
+    "mm_id": "491"
+  },
+  {
+    "db_id": 2323,
+    "name": "Chamchie le Difficile",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 59,
+    "step": 20,
+    "areas": [
+      "Coin des Bouftous",
+      "Campagne d'Amakna"
+    ],
+    "race": "Vermines des champs",
+    "mm_id": "369"
+  },
+  {
+    "db_id": 2324,
+    "name": "Bouflet le Pu\u00e9ril",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 148,
+    "step": 22,
+    "areas": [
+      "Coin des Bouftous",
+      "Tain\u00e9la"
+    ],
+    "race": "Bouftous",
+    "mm_id": "409"
+  },
+  {
+    "db_id": 2325,
+    "name": "Chonstip la Passag\u00e8re",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 123,
+    "step": 22,
+    "areas": [
+      "Plaine des Porkass"
+    ],
+    "race": "Porkass",
+    "mm_id": "404"
+  },
+  {
+    "db_id": 2326,
+    "name": "Craquetuss le Piquant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 483,
+    "step": 24,
+    "areas": [
+      "Montagne des Craqueleurs",
+      "Montagne basse des Craqueleurs"
+    ],
+    "race": "Craqueleurs",
+    "mm_id": "435"
+  },
+  {
+    "db_id": 2327,
+    "name": "Craraboss le F\u00e9\u00e9rique",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 63,
+    "step": 20,
+    "areas": [
+      "Rivage sufokien"
+    ],
+    "race": "Monstres des plages",
+    "mm_id": "364"
+  },
+  {
+    "db_id": 2328,
+    "name": "Forboyar l'Enigmatique",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 119,
+    "step": 26,
+    "areas": [
+      "Territoire des Bandits",
+      "Passage vers Br\u00e2kmar"
+    ],
+    "race": "Bandits",
+    "mm_id": "473"
+  },
+  {
+    "db_id": 2329,
+    "name": "Mallopi\u00e9e l'\u00c9pineuse",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 4559,
+    "step": 24,
+    "areas": [
+      "Massif de Cania"
+    ],
+    "race": "Automates des Brigandins",
+    "mm_id": "437"
+  },
+  {
+    "db_id": 2331,
+    "name": "Larvapstr\u00e8 le Subjectif",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 46,
+    "step": 21,
+    "areas": [
+      "Port de Madrestam",
+      "Bord de la for\u00eat mal\u00e9fique",
+      "C\u00f4te d'Asse",
+      "Prairies d'Astrub",
+      "Rivi\u00e8re Kawaii"
+    ],
+    "race": "Larves",
+    "mm_id": "380"
+  },
+  {
+    "db_id": 2332,
+    "name": "Larchimaide la Pouss\u00e9e",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 34,
+    "step": 21,
+    "areas": [
+      "Port de Madrestam",
+      "Bord de la for\u00eat mal\u00e9fique",
+      "C\u00f4te d'Asse",
+      "Prairies d'Astrub",
+      "Rivi\u00e8re Kawaii"
+    ],
+    "race": "Larves",
+    "mm_id": "376"
+  },
+  {
+    "db_id": 2333,
+    "name": "Milipatte la Griffe",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 159,
+    "step": 23,
+    "areas": [
+      "For\u00eat d'Amakna",
+      "For\u00eat d'Astrub",
+      "Millifutaie"
+    ],
+    "race": "Animaux de la for\u00eat",
+    "mm_id": "422"
+  },
+  {
+    "db_id": 2334,
+    "name": "Milipussien le G\u00e9ant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 475,
+    "step": 22,
+    "areas": [
+      "\u00c9gouts d'Astrub"
+    ],
+    "race": "Rats Strubiens",
+    "mm_id": "401"
+  },
+  {
+    "db_id": 2335,
+    "name": "Minsinistre l'Elu",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 118,
+    "step": 23,
+    "areas": [
+      "Territoire des Bandits",
+      "Passage vers Br\u00e2kmar"
+    ],
+    "race": "Bandits",
+    "mm_id": "430"
+  },
+  {
+    "db_id": 2336,
+    "name": "Mosket\u00e8re le D\u00e9vou\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 61,
+    "step": 20,
+    "areas": [
+      "Bord de la for\u00eat mal\u00e9fique",
+      "Campagne d'Amakna"
+    ],
+    "race": "Vermines des champs",
+    "mm_id": "353"
+  },
+  {
+    "db_id": 2337,
+    "name": "Muloufok l'Hilarant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 102,
+    "step": 30,
+    "areas": [
+      "Hauts des Hurlements"
+    ],
+    "race": "Mulous",
+    "mm_id": "562"
+  },
+  {
+    "db_id": 2338,
+    "name": "Pichdourse le Puissant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 921,
+    "step": 23,
+    "areas": [
+      "Calanques d'Astrub"
+    ],
+    "race": "Pichons",
+    "mm_id": "415"
+  },
+  {
+    "db_id": 2339,
+    "name": "Larvomatik le Propre",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 5225,
+    "step": 25,
+    "areas": [
+      "Port de Madrestam",
+      "C\u00f4te d'Asse",
+      "Prairies d'Astrub",
+      "Rivi\u00e8re Kawaii"
+    ],
+    "race": "Larves",
+    "mm_id": "460"
+  },
+  {
+    "db_id": 2340,
+    "name": "Pichtoire l'Erudit",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 920,
+    "step": 23,
+    "areas": [
+      "Calanques d'Astrub"
+    ],
+    "race": "Pichons",
+    "mm_id": "416"
+  },
+  {
+    "db_id": 2341,
+    "name": "Pioustone le Probl\u00e8me",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 491,
+    "step": 20,
+    "areas": [
+      "Village d'Amakna",
+      "Sufokia",
+      "Cit\u00e9 d'Astrub",
+      "Faubourgs des artisans",
+      "Havres d'ivoire",
+      "C\u0153ur immacul\u00e9",
+      "Promontoire des cieux",
+      "La Cuirasse",
+      "L'Ancre",
+      "La Marmite",
+      "L'Enclume"
+    ],
+    "race": "Pious",
+    "mm_id": "359"
+  },
+  {
+    "db_id": 2342,
+    "name": "Pioulbrineur le Mercenaire",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 493,
+    "step": 20,
+    "areas": [
+      "Village d'Amakna",
+      "Sufokia",
+      "Cit\u00e9 d'Astrub",
+      "Faubourgs des artisans",
+      "Havres d'ivoire",
+      "C\u0153ur immacul\u00e9",
+      "Promontoire des cieux",
+      "La Cuirasse",
+      "L'Ancre",
+      "La Marmite",
+      "L'Enclume"
+    ],
+    "race": "Pious",
+    "mm_id": "360"
+  },
+  {
+    "db_id": 2343,
+    "name": "Pioufe la Maquill\u00e9e",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 492,
+    "step": 20,
+    "areas": [
+      "Village d'Amakna",
+      "Sufokia",
+      "Cit\u00e9 d'Astrub",
+      "Faubourgs des artisans",
+      "Havres d'ivoire",
+      "C\u0153ur immacul\u00e9",
+      "Promontoire des cieux",
+      "La Cuirasse",
+      "L'Ancre",
+      "La Marmite",
+      "L'Enclume"
+    ],
+    "race": "Pious",
+    "mm_id": "366"
+  },
+  {
+    "db_id": 2344,
+    "name": "Pioulette la Coquine",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 489,
+    "step": 20,
+    "areas": [
+      "Cit\u00e9 d'Astrub",
+      "Faubourgs des artisans",
+      "Havres d'ivoire",
+      "C\u0153ur immacul\u00e9",
+      "Promontoire des cieux",
+      "La Cuirasse",
+      "L'Ancre",
+      "La Marmite",
+      "L'Enclume"
+    ],
+    "race": "Pious",
+    "mm_id": "361"
+  },
+  {
+    "db_id": 2345,
+    "name": "Pioukas la Plante",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 490,
+    "step": 20,
+    "areas": [
+      "Village d'Amakna",
+      "Sufokia",
+      "Cit\u00e9 d'Astrub",
+      "Faubourgs des artisans",
+      "Havres d'ivoire",
+      "C\u0153ur immacul\u00e9",
+      "Promontoire des cieux",
+      "La Cuirasse",
+      "L'Ancre",
+      "La Marmite",
+      "L'Enclume"
+    ],
+    "race": "Pious",
+    "mm_id": "362"
+  },
+  {
+    "db_id": 2346,
+    "name": "Pichduitre le Totem",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 922,
+    "step": 23,
+    "areas": [
+      "Calanques d'Astrub"
+    ],
+    "race": "Pichons",
+    "mm_id": "414"
+  },
+  {
+    "db_id": 2347,
+    "name": "Pioussokrim le D\u00e9l\u00e9t\u00e8re",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 236,
+    "step": 20,
+    "areas": [
+      "Village d'Amakna",
+      "Sufokia",
+      "Cit\u00e9 d'Astrub",
+      "Faubourgs des artisans",
+      "Havres d'ivoire",
+      "C\u0153ur immacul\u00e9",
+      "Promontoire des cieux",
+      "La Cuirasse",
+      "L'Ancre",
+      "La Marmite",
+      "L'Enclume"
+    ],
+    "race": "Pious",
+    "mm_id": "363"
+  },
+  {
+    "db_id": 2348,
+    "name": "Pissdane l'Insipide",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 79,
+    "step": 20,
+    "areas": [
+      "Rives iridescentes",
+      "Champs d'Astrub"
+    ],
+    "race": "Plantes des champs",
+    "mm_id": "370"
+  },
+  {
+    "db_id": 2349,
+    "name": "Preskapwal le Tendancieux",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 103,
+    "step": 22,
+    "areas": [
+      "For\u00eat d'Amakna",
+      "Bord de la for\u00eat mal\u00e9fique",
+      "For\u00eat d'Astrub",
+      "Millifutaie"
+    ],
+    "race": "Animaux de la for\u00eat",
+    "mm_id": "403"
+  },
+  {
+    "db_id": 2350,
+    "name": "Radoutable le Craint",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 465,
+    "step": 25,
+    "areas": [
+      "\u00c9gouts d'Astrub"
+    ],
+    "race": "Rats Strubiens",
+    "mm_id": "465"
+  },
+  {
+    "db_id": 2351,
+    "name": "Rauligo le Sale",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 926,
+    "step": 28,
+    "areas": [
+      "Rivage sufokien"
+    ],
+    "race": "Monstres des plages",
+    "mm_id": "531"
+  },
+  {
+    "db_id": 2352,
+    "name": "Roz la Magicienne",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 78,
+    "step": 21,
+    "areas": [
+      "Coin des Bouftous",
+      "Rives iridescentes",
+      "Champs d'Astrub"
+    ],
+    "race": "Plantes des champs",
+    "mm_id": "373"
+  },
+  {
+    "db_id": 2353,
+    "name": "Sangria le Fruit\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 104,
+    "step": 22,
+    "areas": [
+      "For\u00eat d'Amakna",
+      "Bord de la for\u00eat mal\u00e9fique",
+      "For\u00eat d'Astrub",
+      "Millifutaie"
+    ],
+    "race": "Animaux de la for\u00eat",
+    "mm_id": "392"
+  },
+  {
+    "db_id": 2354,
+    "name": "Sourizoto le Collant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 126,
+    "step": 20,
+    "areas": [
+      "Cryptes du cimeti\u00e8re"
+    ],
+    "race": "B\u00eates de la nuit",
+    "mm_id": "352"
+  },
+  {
+    "db_id": 2355,
+    "name": "Tofuldebeu l'Explosif",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 98,
+    "step": 20,
+    "areas": [
+      "Champ des Ingalsse"
+    ],
+    "race": "Tofus",
+    "mm_id": "367"
+  },
+  {
+    "db_id": 2356,
+    "name": "Tofurapin le P\u00e9tri",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 473,
+    "step": 20,
+    "areas": [
+      "Souterrains d'Astrub"
+    ],
+    "race": "Animalades",
+    "mm_id": "368"
+  },
+  {
+    "db_id": 2357,
+    "name": "Tofumanchou l'Empereur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 111,
+    "step": 20,
+    "areas": [
+      "Cimeti\u00e8re",
+      "Cryptes du cimeti\u00e8re"
+    ],
+    "race": "B\u00eates de la nuit",
+    "mm_id": "357"
+  },
+  {
+    "db_id": 2358,
+    "name": "Tour le Vice",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 48,
+    "step": 21,
+    "areas": [
+      "Rives iridescentes",
+      "Champs d'Astrub"
+    ],
+    "race": "Plantes des champs",
+    "mm_id": "386"
+  },
+  {
+    "db_id": 2359,
+    "name": "Ma\u00eetre Onom le R\u00e9gulier",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 371,
+    "step": 27,
+    "areas": [
+      "Routes Rocailleuses"
+    ],
+    "race": "Ruffians de Cania",
+    "mm_id": "508"
+  },
+  {
+    "db_id": 2360,
+    "name": "Ecorf\u00e9 la Vive",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1075,
+    "step": 32,
+    "areas": [
+      "Jungle obscure"
+    ],
+    "race": "Florifaune obscure",
+    "mm_id": "592"
+  },
+  {
+    "db_id": 2361,
+    "name": "Tourbiket le Virevoletant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1058,
+    "step": 32,
+    "areas": [
+      "Tourbi\u00e8re sans fond",
+      "Tourbi\u00e8re naus\u00e9abonde"
+    ],
+    "race": "Monstres des Tourbi\u00e8res",
+    "mm_id": "602"
+  },
+  {
+    "db_id": 2363,
+    "name": "Bouliver le G\u00e9ant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1059,
+    "step": 32,
+    "areas": [
+      "Tourbi\u00e8re sans fond",
+      "Tourbi\u00e8re naus\u00e9abonde"
+    ],
+    "race": "Monstres des Tourbi\u00e8res",
+    "mm_id": "598"
+  },
+  {
+    "db_id": 2367,
+    "name": "Kwakamole l'App\u00e9tissant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 235,
+    "step": 28,
+    "areas": [
+      "Montagne des Craqueleurs"
+    ],
+    "race": "Kwaks",
+    "mm_id": "522"
+  },
+  {
+    "db_id": 2368,
+    "name": "Kwakwatique le Tremp\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 84,
+    "step": 28,
+    "areas": [
+      "Montagne des Craqueleurs"
+    ],
+    "race": "Kwaks",
+    "mm_id": "520"
+  },
+  {
+    "db_id": 2369,
+    "name": "Kwak\u00e9 le Pirat\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 81,
+    "step": 28,
+    "areas": [
+      "Montagne des Craqueleurs"
+    ],
+    "race": "Kwaks",
+    "mm_id": "519"
+  },
+  {
+    "db_id": 2370,
+    "name": "Tsuc\u00e9koi la Colporteuse",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 6383,
+    "step": 33,
+    "areas": [
+      "Cimeti\u00e8re de Grobe"
+    ],
+    "race": "Arm\u00e9e de brume",
+    "mm_id": "625"
+  },
+  {
+    "db_id": 2371,
+    "name": "Geloliaine l'A\u00e9rien",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 56,
+    "step": 21,
+    "areas": [
+      "P\u00e9ninsule des gel\u00e9es"
+    ],
+    "race": "Gel\u00e9es",
+    "mm_id": "379"
+  },
+  {
+    "db_id": 2372,
+    "name": "Dragmoclaiss le Fataliste",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 88,
+    "step": 29,
+    "areas": [
+      "Presqu'\u00eele des Dragoeufs"
+    ],
+    "race": "Dragoeufs Immatures",
+    "mm_id": "536"
+  },
+  {
+    "db_id": 2373,
+    "name": "Champoul l'Illumin\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1157,
+    "step": 33,
+    "areas": [
+      "Caverne des Fungus"
+    ],
+    "race": "Fungus",
+    "mm_id": "627"
+  },
+  {
+    "db_id": 2374,
+    "name": "Jiankor le Radoteur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 6386,
+    "step": 33,
+    "areas": [
+      "Cimeti\u00e8re de Grobe"
+    ],
+    "race": "Arm\u00e9e de brume",
+    "mm_id": "631"
+  },
+  {
+    "db_id": 2376,
+    "name": "Gelaviv le Gla\u00e7on",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 57,
+    "step": 24,
+    "areas": [
+      "P\u00e9ninsule des gel\u00e9es"
+    ],
+    "race": "Gel\u00e9es",
+    "mm_id": "440"
+  },
+  {
+    "db_id": 2377,
+    "name": "Dragstayr le Fonceur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 76,
+    "step": 29,
+    "areas": [
+      "Presqu'\u00eele des Dragoeufs"
+    ],
+    "race": "Dragoeufs Immatures",
+    "mm_id": "535"
+  },
+  {
+    "db_id": 2378,
+    "name": "Cromikay le N\u00e9ophyte",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 299,
+    "step": 22,
+    "areas": [
+      "D\u00e9solation de Sidimote"
+    ],
+    "race": "Sidimonstres",
+    "mm_id": "410"
+  },
+  {
+    "db_id": 2379,
+    "name": "Draglida la Disparue",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 171,
+    "step": 24,
+    "areas": [
+      "Territoire des Dragodindes Sauvages"
+    ],
+    "race": "Dragodindes",
+    "mm_id": "439"
+  },
+  {
+    "db_id": 2381,
+    "name": "Abrinos le Clair",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1047,
+    "step": 33,
+    "areas": [
+      "Tronc de l'arbre Hakam"
+    ],
+    "race": "Peuple de l'Arbre",
+    "mm_id": "619"
+  },
+  {
+    "db_id": 2382,
+    "name": "Toutouf le Velu",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1020,
+    "step": 33,
+    "areas": [
+      "Tronc de l'arbre Hakam",
+      "Feuillage de l'arbre Hakam"
+    ],
+    "race": "Peuple de l'Arbre",
+    "mm_id": "618"
+  },
+  {
+    "db_id": 2383,
+    "name": "Poolopo la Traditionnelle",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1043,
+    "step": 33,
+    "areas": [
+      "Tronc de l'arbre Hakam",
+      "Feuillage de l'arbre Hakam"
+    ],
+    "race": "Peuple de l'Arbre",
+    "mm_id": "614"
+  },
+  {
+    "db_id": 2384,
+    "name": "Aboudbra le Porteur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 384,
+    "step": 26,
+    "areas": [
+      "Village des Dopeuls",
+      "Mine des Dopeuls"
+    ],
+    "race": "Dopeuls",
+    "mm_id": "479"
+  },
+  {
+    "db_id": 2385,
+    "name": "Abrakadnuzar",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 650,
+    "step": 25,
+    "areas": [
+      "Or\u00e9e de la for\u00eat des Abraknydes"
+    ],
+    "race": "Abraknydiens",
+    "mm_id": "462"
+  },
+  {
+    "db_id": 2386,
+    "name": "Abraklette le Fondant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 651,
+    "step": 31,
+    "areas": [
+      "For\u00eat Sombre"
+    ],
+    "race": "Abraknydiens Sombres",
+    "mm_id": "583"
+  },
+  {
+    "db_id": 2388,
+    "name": "Abrakanette l'Encapsul\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 253,
+    "step": 31,
+    "areas": [
+      "For\u00eat Sombre"
+    ],
+    "race": "Abraknydiens Sombres",
+    "mm_id": "576"
+  },
+  {
+    "db_id": 2389,
+    "name": "Abrakildas le V\u00e9n\u00e9rable",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 254,
+    "step": 27,
+    "areas": [
+      "For\u00eat Sombre"
+    ],
+    "race": "Abraknydiens Sombres",
+    "mm_id": "503"
+  },
+  {
+    "db_id": 2391,
+    "name": "Ameur la Laide",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 385,
+    "step": 26,
+    "areas": [
+      "Village des Dopeuls",
+      "Baie de Cania"
+    ],
+    "race": "Dopeuls",
+    "mm_id": "480"
+  },
+  {
+    "db_id": 2392,
+    "name": "Floriste la Cannibale",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 6320,
+    "step": 26,
+    "areas": [
+      "Plantala"
+    ],
+    "race": "Plantalas",
+    "mm_id": "474"
+  },
+  {
+    "db_id": 2393,
+    "name": "Araknay la Galopante",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 255,
+    "step": 20,
+    "areas": [
+      "\u00c9gouts d'Astrub"
+    ],
+    "race": "Araknes",
+    "mm_id": "371"
+  },
+  {
+    "db_id": 2396,
+    "name": "Bistou le Qu\u00eateur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 277,
+    "step": 22,
+    "areas": [
+      "Lac de Cania"
+    ],
+    "race": "Blops",
+    "mm_id": "398"
+  },
+  {
+    "db_id": 2397,
+    "name": "Porfavor le Qu\u00e9mandeur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 344,
+    "step": 22,
+    "areas": [
+      "Plaine des Porkass"
+    ],
+    "race": "Porkass",
+    "mm_id": "407"
+  },
+  {
+    "db_id": 2398,
+    "name": "Rooroku l'Imposant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 6215,
+    "step": 31,
+    "areas": [
+      "Aerdala"
+    ],
+    "race": "Kozaru",
+    "mm_id": "586"
+  },
+  {
+    "db_id": 2399,
+    "name": "Bilvoez\u00e9 le Bonimenteur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 278,
+    "step": 22,
+    "areas": [
+      "Lac de Cania"
+    ],
+    "race": "Blops",
+    "mm_id": "396"
+  },
+  {
+    "db_id": 2400,
+    "name": "Bi le Partageur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 279,
+    "step": 22,
+    "areas": [
+      "Lac de Cania"
+    ],
+    "race": "Blops",
+    "mm_id": "397"
+  },
+  {
+    "db_id": 2401,
+    "name": "Bistou le Rieur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 280,
+    "step": 22,
+    "areas": [
+      "Lac de Cania"
+    ],
+    "race": "Blops",
+    "mm_id": "399"
+  },
+  {
+    "db_id": 2402,
+    "name": "Tiwa'Missou le Gateux",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 68,
+    "step": 21,
+    "areas": [
+      "\u00cele de la Cawotte"
+    ],
+    "race": "Wabbits",
+    "mm_id": "382"
+  },
+  {
+    "db_id": 2403,
+    "name": "Wagnagnah le Sanglant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 65,
+    "step": 23,
+    "areas": [
+      "\u00cele de la Cawotte",
+      "\u00celot de la Couronne"
+    ],
+    "race": "Wabbits",
+    "mm_id": "427"
+  },
+  {
+    "db_id": 2404,
+    "name": "Blorie L'assourdissante",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 273,
+    "step": 25,
+    "areas": [
+      "Lac de Cania"
+    ],
+    "race": "Blops",
+    "mm_id": "452"
+  },
+  {
+    "db_id": 2405,
+    "name": "Blordur l'Infect",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 275,
+    "step": 25,
+    "areas": [
+      "Lac de Cania"
+    ],
+    "race": "Blops",
+    "mm_id": "453"
+  },
+  {
+    "db_id": 2406,
+    "name": "Bloporte le Veule",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 274,
+    "step": 25,
+    "areas": [
+      "Lac de Cania"
+    ],
+    "race": "Blops",
+    "mm_id": "454"
+  },
+  {
+    "db_id": 2407,
+    "name": "Blof l'Apathique",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 276,
+    "step": 25,
+    "areas": [
+      "Lac de Cania"
+    ],
+    "race": "Blops",
+    "mm_id": "455"
+  },
+  {
+    "db_id": 2408,
+    "name": "Boombata le Garde",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 228,
+    "step": 25,
+    "areas": [
+      "Chemin du Cr\u00e2ne"
+    ],
+    "race": "Pirates de Moon",
+    "mm_id": "456"
+  },
+  {
+    "db_id": 2411,
+    "name": "Robiolego l'Assembl\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 4560,
+    "step": 22,
+    "areas": [
+      "Massif de Cania"
+    ],
+    "race": "Automates des Brigandins",
+    "mm_id": "408"
+  },
+  {
+    "db_id": 2412,
+    "name": "Lichangora l'Immacul\u00e9e",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 6217,
+    "step": 31,
+    "areas": [
+      "Aerdala"
+    ],
+    "race": "Kozaru",
+    "mm_id": "572"
+  },
+  {
+    "db_id": 2413,
+    "name": "Robocoop l'\u00c9chang\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 4558,
+    "step": 23,
+    "areas": [
+      "Massif de Cania"
+    ],
+    "race": "Automates des Brigandins",
+    "mm_id": "420"
+  },
+  {
+    "db_id": 2414,
+    "name": "T\u00e9ton\u00e9e la Plantureuse",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 6221,
+    "step": 31,
+    "areas": [
+      "Terrdala"
+    ],
+    "race": "Tanuki",
+    "mm_id": "577"
+  },
+  {
+    "db_id": 2415,
+    "name": "Bulsavon le Gonfl\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 6321,
+    "step": 25,
+    "areas": [
+      "Plantala"
+    ],
+    "race": "Plantalas",
+    "mm_id": "468"
+  },
+  {
+    "db_id": 2416,
+    "name": "Bworkasse le D\u00e9goutant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 876,
+    "step": 24,
+    "areas": [
+      "Campement des Bworks",
+      "Village des Bworks",
+      "Montagne basse des Craqueleurs"
+    ],
+    "race": "Bworks d'Amakna",
+    "mm_id": "444"
+  },
+  {
+    "db_id": 2417,
+    "name": "Barchwork le Multicolore",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 74,
+    "step": 23,
+    "areas": [
+      "Campement des Bworks",
+      "Village des Bworks",
+      "Montagne basse des Craqueleurs"
+    ],
+    "race": "Bworks d'Amakna",
+    "mm_id": "431"
+  },
+  {
+    "db_id": 2418,
+    "name": "Bwormage le Respectueux",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 53,
+    "step": 23,
+    "areas": [
+      "Campement des Bworks",
+      "Village des Bworks",
+      "Montagne basse des Craqueleurs"
+    ],
+    "race": "Bworks d'Amakna",
+    "mm_id": "426"
+  },
+  {
+    "db_id": 2419,
+    "name": "Caboume l'Artilleur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 231,
+    "step": 29,
+    "areas": [
+      "Chemin du Cr\u00e2ne"
+    ],
+    "race": "Pirates de Moon",
+    "mm_id": "533"
+  },
+  {
+    "db_id": 2420,
+    "name": "Cavordemal le Sorcier",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 343,
+    "step": 26,
+    "areas": [
+      "Plaine des Porkass"
+    ],
+    "race": "Porkass",
+    "mm_id": "478"
+  },
+  {
+    "db_id": 2421,
+    "name": "Chaffoin le Sournois",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 396,
+    "step": 25,
+    "areas": [
+      "Cimeti\u00e8re",
+      "Bois de Litneg"
+    ],
+    "race": "Chafers",
+    "mm_id": "459"
+  },
+  {
+    "db_id": 2422,
+    "name": "Chafrit le Barbare",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 292,
+    "step": 27,
+    "areas": [
+      "Cimeti\u00e8re des H\u00e9ros",
+      "Cimeti\u00e8re des Tortur\u00e9s"
+    ],
+    "race": "Chafers",
+    "mm_id": "506"
+  },
+  {
+    "db_id": 2423,
+    "name": "Ramitant le Dilettante",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 447,
+    "step": 27,
+    "areas": [
+      "Cloaque d'Amakna"
+    ],
+    "race": "Rats Makn\u00e9ens",
+    "mm_id": "492"
+  },
+  {
+    "db_id": 2424,
+    "name": "Champayt l'Odorant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 654,
+    "step": 24,
+    "areas": [
+      "Clairi\u00e8re de Brouce Boulgoure"
+    ],
+    "race": "Champas",
+    "mm_id": "432"
+  },
+  {
+    "db_id": 2425,
+    "name": "Chamflay le Ballonn\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 655,
+    "step": 24,
+    "areas": [
+      "Clairi\u00e8re de Brouce Boulgoure"
+    ],
+    "race": "Champas",
+    "mm_id": "433"
+  },
+  {
+    "db_id": 2426,
+    "name": "Chamdbl\u00e9 le Cultiv\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 653,
+    "step": 24,
+    "areas": [
+      "Clairi\u00e8re de Brouce Boulgoure"
+    ],
+    "race": "Champas",
+    "mm_id": "434"
+  },
+  {
+    "db_id": 2427,
+    "name": "Champayr le Disjonct\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 652,
+    "step": 22,
+    "areas": [
+      "Clairi\u00e8re de Brouce Boulgoure"
+    ],
+    "race": "Champas",
+    "mm_id": "393"
+  },
+  {
+    "db_id": 2428,
+    "name": "Crok le Beau",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 263,
+    "step": 30,
+    "areas": [
+      "Mar\u00e9cages d'Amakna",
+      "Mar\u00e9cages naus\u00e9abonds",
+      "Mar\u00e9cages sans fond"
+    ],
+    "race": "Gadouilleux",
+    "mm_id": "554"
+  },
+  {
+    "db_id": 2429,
+    "name": "Koamag'oel le D\u00e9figur\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 759,
+    "step": 31,
+    "areas": [
+      "Cimeti\u00e8re primitif"
+    ],
+    "race": "Koalaks primitifs",
+    "mm_id": "584"
+  },
+  {
+    "db_id": 2430,
+    "name": "Chevaustine le Reconstruit",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 62,
+    "step": 22,
+    "areas": [
+      "Campement des Bworks",
+      "Campement des Gobelins",
+      "Montagne basse des Craqueleurs"
+    ],
+    "race": "Gobelins d'Amakna",
+    "mm_id": "400"
+  },
+  {
+    "db_id": 2431,
+    "name": "\u00c9toilette la Bouch\u00e9e",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 927,
+    "step": 22,
+    "areas": [
+      "Rivage sufokien"
+    ],
+    "race": "Monstres des plages",
+    "mm_id": "394"
+  },
+  {
+    "db_id": 2432,
+    "name": "Farlon l'Enfant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 603,
+    "step": 25,
+    "areas": [
+      "Territoire des Porcos",
+      "Labyrinthe du Dragon Cochon"
+    ],
+    "race": "Porcos",
+    "mm_id": "457"
+  },
+  {
+    "db_id": 2433,
+    "name": "Codenlgaz le Probl\u00e8me",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 386,
+    "step": 26,
+    "areas": [
+      "Village des Dopeuls",
+      "Baie de Cania"
+    ],
+    "race": "Dopeuls",
+    "mm_id": "481"
+  },
+  {
+    "db_id": 2434,
+    "name": "Tilolo la Bien Moul\u00e9e",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 6223,
+    "step": 29,
+    "areas": [
+      "Terrdala"
+    ],
+    "race": "Tanuki",
+    "mm_id": "532"
+  },
+  {
+    "db_id": 2436,
+    "name": "Crakmitaine le Faucheur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 106,
+    "step": 24,
+    "areas": [
+      "Montagne des Craqueleurs",
+      "Montagne basse des Craqueleurs"
+    ],
+    "race": "Craqueleurs",
+    "mm_id": "443"
+  },
+  {
+    "db_id": 2437,
+    "name": "Corpat le Vampire",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 281,
+    "step": 23,
+    "areas": [
+      "P\u00e9nates du Corbac"
+    ],
+    "race": "Corbacs",
+    "mm_id": "413"
+  },
+  {
+    "db_id": 2438,
+    "name": "Cramikaz le Suicidaire",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 293,
+    "step": 27,
+    "areas": [
+      "Plaines Rocheuses"
+    ],
+    "race": "Craqueleurs",
+    "mm_id": "504"
+  },
+  {
+    "db_id": 2439,
+    "name": "Crolnareff l'Exil\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 261,
+    "step": 25,
+    "areas": [
+      "Mar\u00e9cages d'Amakna",
+      "Mar\u00e9cages naus\u00e9abonds",
+      "Mar\u00e9cages sans fond"
+    ],
+    "race": "Gadouilleux",
+    "mm_id": "464"
+  },
+  {
+    "db_id": 2440,
+    "name": "Crognan le Barbare",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 3096,
+    "step": 23,
+    "areas": [
+      "D\u00e9solation de Sidimote"
+    ],
+    "race": "Sidimonstres",
+    "mm_id": "428"
+  },
+  {
+    "db_id": 2442,
+    "name": "Doktopuss le Mal\u00e9fique",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 747,
+    "step": 27,
+    "areas": [
+      "Lacs enchant\u00e9s",
+      "For\u00eat de Kaliptus",
+      "Canyon sauvage",
+      "Antre du Koulosse"
+    ],
+    "race": "Koalaks",
+    "mm_id": "493"
+  },
+  {
+    "db_id": 2445,
+    "name": "Fouflay le Retomb\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 4574,
+    "step": 30,
+    "areas": [
+      "Routes Rocailleuses"
+    ],
+    "race": "Ruffians de Cania",
+    "mm_id": "569"
+  },
+  {
+    "db_id": 2446,
+    "name": "Bourde le Maladroit",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 4547,
+    "step": 30,
+    "areas": [
+      "Champs de Cania"
+    ],
+    "race": "Animaux des Champs",
+    "mm_id": "568"
+  },
+  {
+    "db_id": 2447,
+    "name": "Souristiti l'Immortalis\u00e9e",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 294,
+    "step": 30,
+    "areas": [
+      "Champs de Cania"
+    ],
+    "race": "Animaux des Champs",
+    "mm_id": "567"
+  },
+  {
+    "db_id": 2448,
+    "name": "Larvaloeil l'\u00c9mue",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 4548,
+    "step": 30,
+    "areas": [
+      "Champs de Cania"
+    ],
+    "race": "Animaux des Champs",
+    "mm_id": "566"
+  },
+  {
+    "db_id": 2449,
+    "name": "Dragnostik le Sceptique",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 89,
+    "step": 29,
+    "areas": [
+      "Presqu'\u00eele des Dragoeufs"
+    ],
+    "race": "Dragoeufs Immatures",
+    "mm_id": "538"
+  },
+  {
+    "db_id": 2450,
+    "name": "Dragkouine la D\u00e9guis\u00e9e",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 87,
+    "step": 29,
+    "areas": [
+      "Presqu'\u00eele des Dragoeufs"
+    ],
+    "race": "Dragoeufs Immatures",
+    "mm_id": "537"
+  },
+  {
+    "db_id": 2451,
+    "name": "Kwakolak le Chocolat\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 83,
+    "step": 28,
+    "areas": [
+      "Montagne des Craqueleurs"
+    ],
+    "race": "Kwaks",
+    "mm_id": "521"
+  },
+  {
+    "db_id": 2452,
+    "name": "Dragobert le Monarque",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 862,
+    "step": 31,
+    "areas": [
+      "Sanctuaire des Dragoeufs"
+    ],
+    "race": "Dragoeufs Protecteurs",
+    "mm_id": "588"
+  },
+  {
+    "db_id": 2453,
+    "name": "Porsal\u00e9 le R\u00e2leur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 3304,
+    "step": 28,
+    "areas": [
+      "Territoire des Porcos",
+      "Labyrinthe du Dragon Cochon"
+    ],
+    "race": "Porcos",
+    "mm_id": "523"
+  },
+  {
+    "db_id": 2454,
+    "name": "Dragminster le Magicien",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 878,
+    "step": 32,
+    "areas": [
+      "Village des Dragoeufs",
+      "Souterrains des Dragoeufs"
+    ],
+    "race": "Dragoss",
+    "mm_id": "604"
+  },
+  {
+    "db_id": 2455,
+    "name": "V\u00e9taurine l'\u00c9nergis\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 4575,
+    "step": 28,
+    "areas": [
+      "Routes Rocailleuses"
+    ],
+    "race": "Ruffians de Cania",
+    "mm_id": "525"
+  },
+  {
+    "db_id": 2456,
+    "name": "Dragtarus le Bell\u00e2tre",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 879,
+    "step": 32,
+    "areas": [
+      "Village des Dragoeufs",
+      "Souterrains des Dragoeufs"
+    ],
+    "race": "Dragoss",
+    "mm_id": "605"
+  },
+  {
+    "db_id": 2457,
+    "name": "Moumoute la Douce",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 954,
+    "step": 28,
+    "areas": [
+      "Rivage sufokien"
+    ],
+    "race": "Monstres des plages",
+    "mm_id": "526"
+  },
+  {
+    "db_id": 2458,
+    "name": "Draquetteur le Voleur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 858,
+    "step": 32,
+    "areas": [
+      "Village des Dragoeufs",
+      "Souterrains des Dragoeufs"
+    ],
+    "race": "Dragoss",
+    "mm_id": "606"
+  },
+  {
+    "db_id": 2459,
+    "name": "Dragioli le Succulent",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 5804,
+    "step": 28,
+    "areas": [
+      "Sanctuaire des Dragoeufs"
+    ],
+    "race": "Dragoeufs Protecteurs",
+    "mm_id": "524"
+  },
+  {
+    "db_id": 2460,
+    "name": "Drageaufol la Joyeuse",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 905,
+    "step": 32,
+    "areas": [
+      "Village des Dragoeufs",
+      "Souterrains des Dragoeufs"
+    ],
+    "race": "Dragoss",
+    "mm_id": "607"
+  },
+  {
+    "db_id": 2461,
+    "name": "Dragonienne l'Econome",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 855,
+    "step": 30,
+    "areas": [
+      "Sanctuaire des Dragoeufs"
+    ],
+    "race": "Dragoeufs Protecteurs",
+    "mm_id": "570"
+  },
+  {
+    "db_id": 2462,
+    "name": "Drakolage le Tentateur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 763,
+    "step": 32,
+    "areas": [
+      "Canyon sauvage"
+    ],
+    "race": "Koalaks sauvages",
+    "mm_id": "611"
+  },
+  {
+    "db_id": 2464,
+    "name": "Dragdikal le D\u00e9cisif",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 853,
+    "step": 31,
+    "areas": [
+      "Sanctuaire des Dragoeufs"
+    ],
+    "race": "Dragoeufs Protecteurs",
+    "mm_id": "587"
+  },
+  {
+    "db_id": 2465,
+    "name": "Dragnoute l'Irascible",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 200,
+    "step": 25,
+    "areas": [
+      "Territoire des Dragodindes Sauvages"
+    ],
+    "race": "Dragodindes",
+    "mm_id": "467"
+  },
+  {
+    "db_id": 2466,
+    "name": "Fanlabiz le V\u00e9loce",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 932,
+    "step": 29,
+    "areas": [
+      "Bordure de Br\u00e2kmar"
+    ],
+    "race": "Fant\u00f4mes",
+    "mm_id": "546"
+  },
+  {
+    "db_id": 2467,
+    "name": "Fandanleuil le Pr\u00e9cis",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 378,
+    "step": 29,
+    "areas": [
+      "Bordure de Br\u00e2kmar"
+    ],
+    "race": "Fant\u00f4mes",
+    "mm_id": "547"
+  },
+  {
+    "db_id": 2468,
+    "name": "Fantrask la R\u00eaveuse",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 379,
+    "step": 29,
+    "areas": [
+      "Bordure de Br\u00e2kmar"
+    ],
+    "race": "Fant\u00f4mes",
+    "mm_id": "549"
+  },
+  {
+    "db_id": 2469,
+    "name": "Tambouille le Gastronome",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 6384,
+    "step": 33,
+    "areas": [
+      "Cimeti\u00e8re de Grobe"
+    ],
+    "race": "Arm\u00e9e de brume",
+    "mm_id": "626"
+  },
+  {
+    "db_id": 2470,
+    "name": "Kaonucl\u00e9air l'Instable",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 6391,
+    "step": 34,
+    "areas": [
+      "Mont des Tombeaux"
+    ],
+    "race": "Yokai des Tombeaux",
+    "mm_id": "637"
+  },
+  {
+    "db_id": 2471,
+    "name": "Onabu\u00e9mang\u00e9 la Rassasi\u00e9e",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 6385,
+    "step": 33,
+    "areas": [
+      "Cimeti\u00e8re de Grobe"
+    ],
+    "race": "Arm\u00e9e de brume",
+    "mm_id": "630"
+  },
+  {
+    "db_id": 2472,
+    "name": "Alhoui le R\u00e9pondeur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 3558,
+    "step": 30,
+    "areas": [
+      "Dents de Pierre",
+      "Village des Kanigs"
+    ],
+    "race": "Kanigs des Dents de Pierre",
+    "mm_id": "559"
+  },
+  {
+    "db_id": 2473,
+    "name": "F\u00e9lyssion la Gourmande",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 3559,
+    "step": 30,
+    "areas": [
+      "Dents de Pierre",
+      "Village des Kanigs"
+    ],
+    "race": "Kanigs des Dents de Pierre",
+    "mm_id": "557"
+  },
+  {
+    "db_id": 2474,
+    "name": "Pantacour le Long",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 3560,
+    "step": 30,
+    "areas": [
+      "Dents de Pierre",
+      "Village des Kanigs"
+    ],
+    "race": "Kanigs des Dents de Pierre",
+    "mm_id": "555"
+  },
+  {
+    "db_id": 2475,
+    "name": "Kanibi\u00e8re l'Encord\u00e9e",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 3561,
+    "step": 30,
+    "areas": [
+      "Dents de Pierre",
+      "Village des Kanigs"
+    ],
+    "race": "Kanigs des Dents de Pierre",
+    "mm_id": "558"
+  },
+  {
+    "db_id": 2476,
+    "name": "Orf\u00e9lyre le Charmeur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 3562,
+    "step": 30,
+    "areas": [
+      "Dents de Pierre",
+      "Village des Kanigs"
+    ],
+    "race": "Kanigs des Dents de Pierre",
+    "mm_id": "556"
+  },
+  {
+    "db_id": 2477,
+    "name": "Tsumani l'Inondeur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 6392,
+    "step": 34,
+    "areas": [
+      "Mont des Tombeaux"
+    ],
+    "race": "Yokai des Tombeaux",
+    "mm_id": "636"
+  },
+  {
+    "db_id": 2482,
+    "name": "Fossamoel le Juteux",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 761,
+    "step": 31,
+    "areas": [
+      "Cimeti\u00e8re primitif"
+    ],
+    "race": "Koalaks primitifs",
+    "mm_id": "578"
+  },
+  {
+    "db_id": 2483,
+    "name": "Bakaglace le Congel\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 6390,
+    "step": 34,
+    "areas": [
+      "Mont des Tombeaux"
+    ],
+    "race": "Yokai des Tombeaux",
+    "mm_id": "635"
+  },
+  {
+    "db_id": 2484,
+    "name": "Fourapin le Chaud",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 217,
+    "step": 23,
+    "areas": [
+      "Jungle Interdite"
+    ],
+    "race": "Monstres de la Jungle Interdite",
+    "mm_id": "421"
+  },
+  {
+    "db_id": 2486,
+    "name": "Garsim le Mort",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 498,
+    "step": 24,
+    "areas": [
+      "Cimeti\u00e8re d'Astrub"
+    ],
+    "race": "Monstres du repos",
+    "mm_id": "438"
+  },
+  {
+    "db_id": 2487,
+    "name": "Gelanal le Huileux",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 55,
+    "step": 21,
+    "areas": [
+      "P\u00e9ninsule des gel\u00e9es"
+    ],
+    "race": "Gel\u00e9es",
+    "mm_id": "374"
+  },
+  {
+    "db_id": 2493,
+    "name": "Ginsenk le Stimulant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 387,
+    "step": 26,
+    "areas": [
+      "Village des Dopeuls",
+      "Mine des Dopeuls"
+    ],
+    "race": "Dopeuls",
+    "mm_id": "482"
+  },
+  {
+    "db_id": 2494,
+    "name": "Gobstiniais le T\u00eatu",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 178,
+    "step": 21,
+    "areas": [
+      "Campement des Bworks",
+      "Campement des Gobelins",
+      "Montagne basse des Craqueleurs"
+    ],
+    "race": "Gobelins d'Amakna",
+    "mm_id": "388"
+  },
+  {
+    "db_id": 2495,
+    "name": "Gloubibou le Gars",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 216,
+    "step": 31,
+    "areas": [
+      "Jungle Interdite"
+    ],
+    "race": "Monstres de la Jungle Interdite",
+    "mm_id": "579"
+  },
+  {
+    "db_id": 2497,
+    "name": "Guerrite le Veilleur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 749,
+    "step": 30,
+    "areas": [
+      "Vall\u00e9e de la Morh'Kitu"
+    ],
+    "race": "Koalaks mortels",
+    "mm_id": "571"
+  },
+  {
+    "db_id": 2498,
+    "name": "Grandilok le Clameur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 99,
+    "step": 26,
+    "areas": [
+      "\u00celot de Waldo",
+      "\u00celot de la Couronne"
+    ],
+    "race": "Wabbits",
+    "mm_id": "476"
+  },
+  {
+    "db_id": 2502,
+    "name": "Kannibal le Lecteur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 211,
+    "step": 27,
+    "areas": [
+      "For\u00eat des Masques"
+    ],
+    "race": "Kannibouls de Moon",
+    "mm_id": "510"
+  },
+  {
+    "db_id": 2503,
+    "name": "Kanasukr le Mielleux",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 287,
+    "step": 30,
+    "areas": [
+      "Routes Rocailleuses"
+    ],
+    "race": "Ruffians de Cania",
+    "mm_id": "560"
+  },
+  {
+    "db_id": 2505,
+    "name": "Kann\u00e9mik le Maigre",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 214,
+    "step": 28,
+    "areas": [
+      "For\u00eat des Masques"
+    ],
+    "race": "Kannibouls de Moon",
+    "mm_id": "512"
+  },
+  {
+    "db_id": 2506,
+    "name": "Kannisterik le Forcen\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 212,
+    "step": 28,
+    "areas": [
+      "For\u00eat des Masques"
+    ],
+    "race": "Kannibouls de Moon",
+    "mm_id": "513"
+  },
+  {
+    "db_id": 2507,
+    "name": "Kapota la Fraise",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 213,
+    "step": 27,
+    "areas": [
+      "For\u00eat des Masques"
+    ],
+    "race": "Kannibouls de Moon",
+    "mm_id": "511"
+  },
+  {
+    "db_id": 2508,
+    "name": "Kiroyal le Sirupeux",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 388,
+    "step": 26,
+    "areas": [
+      "Village des Dopeuls",
+      "Baie de Cania"
+    ],
+    "race": "Dopeuls",
+    "mm_id": "483"
+  },
+  {
+    "db_id": 2509,
+    "name": "Koaskette la Chapeli\u00e8re",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 751,
+    "step": 29,
+    "areas": [
+      "Canyon sauvage"
+    ],
+    "race": "Koalaks sauvages",
+    "mm_id": "541"
+  },
+  {
+    "db_id": 2510,
+    "name": "Bebetto l'Intellectuel",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 6231,
+    "step": 28,
+    "areas": [
+      "Akwadala"
+    ],
+    "race": "Kwapa",
+    "mm_id": "529"
+  },
+  {
+    "db_id": 2511,
+    "name": "Inopenope le N\u00e9gatif",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 6214,
+    "step": 31,
+    "areas": [
+      "Aerdala"
+    ],
+    "race": "Kozaru",
+    "mm_id": "575"
+  },
+  {
+    "db_id": 2512,
+    "name": "Fangshui la Dysorthographi\u00e9e",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 6216,
+    "step": 32,
+    "areas": [
+      "Aerdala"
+    ],
+    "race": "Kozaru",
+    "mm_id": "609"
+  },
+  {
+    "db_id": 2513,
+    "name": "Koamaembair le Coulant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 752,
+    "step": 29,
+    "areas": [
+      "Canyon sauvage"
+    ],
+    "race": "Koalaks sauvages",
+    "mm_id": "539"
+  },
+  {
+    "db_id": 2514,
+    "name": "Koalaboi le Calorif\u00e8re",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 756,
+    "step": 32,
+    "areas": [
+      "Vall\u00e9e de la Morh'Kitu"
+    ],
+    "race": "Koalaks mortels",
+    "mm_id": "595"
+  },
+  {
+    "db_id": 2515,
+    "name": "Koasossyal le Psychopathe",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 785,
+    "step": 31,
+    "areas": [
+      "For\u00eat de Kaliptus"
+    ],
+    "race": "Koalaks",
+    "mm_id": "580"
+  },
+  {
+    "db_id": 2516,
+    "name": "Koakofrui le Confit",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 753,
+    "step": 29,
+    "areas": [
+      "Canyon sauvage"
+    ],
+    "race": "Koalaks sauvages",
+    "mm_id": "540"
+  },
+  {
+    "db_id": 2517,
+    "name": "Koalastrof la Naturelle",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 748,
+    "step": 27,
+    "areas": [
+      "Lacs enchant\u00e9s",
+      "For\u00eat de Kaliptus"
+    ],
+    "race": "Koalaks",
+    "mm_id": "495"
+  },
+  {
+    "db_id": 2518,
+    "name": "Koarmit la Batracienne",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 754,
+    "step": 29,
+    "areas": [
+      "Canyon sauvage"
+    ],
+    "race": "Koalaks sauvages",
+    "mm_id": "542"
+  },
+  {
+    "db_id": 2519,
+    "name": "Koalvissie le Chauve",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 744,
+    "step": 32,
+    "areas": [
+      "Vall\u00e9e de la Morh'Kitu"
+    ],
+    "race": "Koalaks mortels",
+    "mm_id": "594"
+  },
+  {
+    "db_id": 2520,
+    "name": "Kolforthe l'Ind\u00e9collable",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 300,
+    "step": 21,
+    "areas": [
+      "D\u00e9solation de Sidimote"
+    ],
+    "race": "Sidimonstres",
+    "mm_id": "378"
+  },
+  {
+    "db_id": 2521,
+    "name": "Krapahut le Randonneur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 836,
+    "step": 24,
+    "areas": [
+      "\u00cele du Minotoror"
+    ],
+    "race": "Minos",
+    "mm_id": "446"
+  },
+  {
+    "db_id": 2522,
+    "name": "Kwoanneur le Frimeur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 154,
+    "step": 21,
+    "areas": [
+      "Cimeti\u00e8re"
+    ],
+    "race": "B\u00eates de la nuit",
+    "mm_id": "375"
+  },
+  {
+    "db_id": 2524,
+    "name": "Ouass\u00e9bo l'Esth\u00e8te",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 496,
+    "step": 27,
+    "areas": [
+      "Cimeti\u00e8re d'Astrub"
+    ],
+    "race": "Monstres du repos",
+    "mm_id": "497"
+  },
+  {
+    "db_id": 2525,
+    "name": "Let le Rond",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 389,
+    "step": 26,
+    "areas": [
+      "Village des Dopeuls",
+      "Baie de Cania"
+    ],
+    "race": "Dopeuls",
+    "mm_id": "484"
+  },
+  {
+    "db_id": 2526,
+    "name": "Bigbadaboum l'\u00c9l\u00e9mentaire",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 6253,
+    "step": 33,
+    "areas": [
+      "Feudala"
+    ],
+    "race": "Firefoux",
+    "mm_id": "610"
+  },
+  {
+    "db_id": 2527,
+    "name": "Parapadkou\u00ef l'\u00c9mascul\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 6222,
+    "step": 28,
+    "areas": [
+      "Terrdala"
+    ],
+    "race": "Tanuki",
+    "mm_id": "527"
+  },
+  {
+    "db_id": 2528,
+    "name": "Mamakomou l'\u00c2ge",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 755,
+    "step": 32,
+    "areas": [
+      "Canyon sauvage"
+    ],
+    "race": "Koalaks sauvages",
+    "mm_id": "596"
+  },
+  {
+    "db_id": 2529,
+    "name": "Mandalo l'Aqueuse",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 835,
+    "step": 24,
+    "areas": [
+      "\u00cele du Minotoror"
+    ],
+    "race": "Minos",
+    "mm_id": "436"
+  },
+  {
+    "db_id": 2531,
+    "name": "Ma\u00eetre Koantik le Th\u00e9oricien",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 758,
+    "step": 33,
+    "areas": [
+      "Cimeti\u00e8re primitif"
+    ],
+    "race": "Koalaks primitifs",
+    "mm_id": "613"
+  },
+  {
+    "db_id": 2532,
+    "name": "Ma\u00eetre Amboat le Moqueur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 124,
+    "step": 23,
+    "areas": [
+      "Cryptes du cimeti\u00e8re"
+    ],
+    "race": "B\u00eates de la nuit",
+    "mm_id": "419"
+  },
+  {
+    "db_id": 2533,
+    "name": "Minoskour le Sauveur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 834,
+    "step": 23,
+    "areas": [
+      "\u00cele du Minotoror"
+    ],
+    "race": "Minos",
+    "mm_id": "423"
+  },
+  {
+    "db_id": 2534,
+    "name": "Momikonos la Bandelette",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 760,
+    "step": 32,
+    "areas": [
+      "Cimeti\u00e8re primitif"
+    ],
+    "race": "Koalaks primitifs",
+    "mm_id": "597"
+  },
+  {
+    "db_id": 2538,
+    "name": "Nakuneuye le Borgne",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 229,
+    "step": 29,
+    "areas": [
+      "Chemin du Cr\u00e2ne"
+    ],
+    "race": "Pirates de Moon",
+    "mm_id": "534"
+  },
+  {
+    "db_id": 2539,
+    "name": "Nelvin le Boulet",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 390,
+    "step": 26,
+    "areas": [
+      "Village des Dopeuls",
+      "Mine des Dopeuls"
+    ],
+    "race": "Dopeuls",
+    "mm_id": "485"
+  },
+  {
+    "db_id": 2540,
+    "name": "Nipulnislip l'Exhibitionniste",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 391,
+    "step": 26,
+    "areas": [
+      "Village des Dopeuls",
+      "Mine des Dopeuls"
+    ],
+    "race": "Dopeuls",
+    "mm_id": "486"
+  },
+  {
+    "db_id": 2541,
+    "name": "Nodkoku le Trahi",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 218,
+    "step": 21,
+    "areas": [
+      "Plage de la Tortue",
+      "\u00cele des naufrag\u00e9s"
+    ],
+    "race": "Palmikos",
+    "mm_id": "389"
+  },
+  {
+    "db_id": 2542,
+    "name": "Neufedur le Flottant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 150,
+    "step": 23,
+    "areas": [
+      "Cryptes du cimeti\u00e8re"
+    ],
+    "race": "B\u00eates de la nuit",
+    "mm_id": "424"
+  },
+  {
+    "db_id": 2543,
+    "name": "Craquecrac l'Endurant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 4571,
+    "step": 31,
+    "areas": [
+      "Montagne des Craqueleurs",
+      "Plaines Rocheuses",
+      "Montagne basse des Craqueleurs"
+    ],
+    "race": "Craqueleurs",
+    "mm_id": "573"
+  },
+  {
+    "db_id": 2544,
+    "name": "Abrakine le Sombre",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1077,
+    "step": 32,
+    "areas": [
+      "Jungle obscure"
+    ],
+    "race": "Florifaune obscure",
+    "mm_id": "603"
+  },
+  {
+    "db_id": 2545,
+    "name": "Barebourd le Comte",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1049,
+    "step": 29,
+    "areas": [
+      "Arche d'Otoma\u00ef"
+    ],
+    "race": "Pirates de l'Arche d'Otoma\u00ef",
+    "mm_id": "550"
+  },
+  {
+    "db_id": 2546,
+    "name": "Bitoven le Musicien",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1041,
+    "step": 31,
+    "areas": [
+      "Jungle obscure"
+    ],
+    "race": "Florifaune obscure",
+    "mm_id": "591"
+  },
+  {
+    "db_id": 2547,
+    "name": "Toufou le Ben\u00eat",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1019,
+    "step": 30,
+    "areas": [
+      "Plaines herbeuses"
+    ],
+    "race": "Herboricoles",
+    "mm_id": "553"
+  },
+  {
+    "db_id": 2548,
+    "name": "Bambousk\u00e9 le Camoufl\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 6318,
+    "step": 23,
+    "areas": [
+      "Plantala"
+    ],
+    "race": "Plantalas",
+    "mm_id": "412"
+  },
+  {
+    "db_id": 2549,
+    "name": "Boostif l'Affam\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 112,
+    "step": 22,
+    "areas": [
+      "Mar\u00e9cages d'Amakna",
+      "Coin des Boos",
+      "Mar\u00e9cages naus\u00e9abonds",
+      "Mar\u00e9cages sans fond"
+    ],
+    "race": "Gadouilleux",
+    "mm_id": "402"
+  },
+  {
+    "db_id": 2550,
+    "name": "Brouste l'Humiliant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1073,
+    "step": 31,
+    "areas": [
+      "Jungle obscure"
+    ],
+    "race": "Florifaune obscure",
+    "mm_id": "590"
+  },
+  {
+    "db_id": 2551,
+    "name": "Champolyon le Polyglotte",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1158,
+    "step": 33,
+    "areas": [
+      "Caverne des Fungus",
+      "Domaine des Fungus"
+    ],
+    "race": "Fungus",
+    "mm_id": "628"
+  },
+  {
+    "db_id": 2552,
+    "name": "Chamoute le Duveteux",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1155,
+    "step": 33,
+    "areas": [
+      "Caverne des Fungus"
+    ],
+    "race": "Fungus",
+    "mm_id": "624"
+  },
+  {
+    "db_id": 2553,
+    "name": "Chamilero le Malchanceux",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1154,
+    "step": 33,
+    "areas": [
+      "Domaine des Fungus"
+    ],
+    "race": "Fungus",
+    "mm_id": "621"
+  },
+  {
+    "db_id": 2554,
+    "name": "Chiendanl\u00e9min l'Illusionniste",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1076,
+    "step": 29,
+    "areas": [
+      "Jungle obscure"
+    ],
+    "race": "Florifaune obscure",
+    "mm_id": "545"
+  },
+  {
+    "db_id": 2555,
+    "name": "Corboyard l'Enigmatique",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1022,
+    "step": 28,
+    "areas": [
+      "Plage de Corail"
+    ],
+    "race": "Colonie du Magistral",
+    "mm_id": "518"
+  },
+  {
+    "db_id": 2556,
+    "name": "Craquetou le Fissur\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1026,
+    "step": 27,
+    "areas": [
+      "Plaines herbeuses"
+    ],
+    "race": "Herboricoles",
+    "mm_id": "507"
+  },
+  {
+    "db_id": 2557,
+    "name": "Crustterus l'Organique",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1060,
+    "step": 25,
+    "areas": [
+      "Plage de Corail"
+    ],
+    "race": "Colonie du Magistral",
+    "mm_id": "469"
+  },
+  {
+    "db_id": 2558,
+    "name": "Crustensyl le Pragmatique",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1061,
+    "step": 25,
+    "areas": [
+      "Plage de Corail"
+    ],
+    "race": "Colonie du Magistral",
+    "mm_id": "470"
+  },
+  {
+    "db_id": 2559,
+    "name": "Cruskof le Rustre",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1063,
+    "step": 25,
+    "areas": [
+      "Plage de Corail"
+    ],
+    "race": "Colonie du Magistral",
+    "mm_id": "471"
+  },
+  {
+    "db_id": 2560,
+    "name": "Crusmeyer le Pervers",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1062,
+    "step": 26,
+    "areas": [
+      "Plage de Corail"
+    ],
+    "race": "Colonie du Magistral",
+    "mm_id": "472"
+  },
+  {
+    "db_id": 2561,
+    "name": "Crathdogue le Cruel",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1025,
+    "step": 30,
+    "areas": [
+      "Plaines herbeuses"
+    ],
+    "race": "Herboricoles",
+    "mm_id": "552"
+  },
+  {
+    "db_id": 2562,
+    "name": "Diskord le Belliqueux",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1055,
+    "step": 31,
+    "areas": [
+      "Village des Zoths",
+      "Village de la Canop\u00e9e"
+    ],
+    "race": "Zoths",
+    "mm_id": "589"
+  },
+  {
+    "db_id": 2563,
+    "name": "Fantoch le Pantin",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 380,
+    "step": 29,
+    "areas": [
+      "Bordure de Br\u00e2kmar"
+    ],
+    "race": "Fant\u00f4mes",
+    "mm_id": "548"
+  },
+  {
+    "db_id": 2564,
+    "name": "Madgang le Docteur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 6389,
+    "step": 34,
+    "areas": [
+      "Mont des Tombeaux"
+    ],
+    "race": "Yokai des Tombeaux",
+    "mm_id": "634"
+  },
+  {
+    "db_id": 2565,
+    "name": "Floanna la Blonde",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1029,
+    "step": 32,
+    "areas": [
+      "Jungle obscure"
+    ],
+    "race": "Florifaune obscure",
+    "mm_id": "593"
+  },
+  {
+    "db_id": 2566,
+    "name": "Gastroth la Contagieuse",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1053,
+    "step": 32,
+    "areas": [
+      "Village des Zoths",
+      "Village de la Canop\u00e9e"
+    ],
+    "race": "Zoths",
+    "mm_id": "600"
+  },
+  {
+    "db_id": 2567,
+    "name": "Faufoll la Joyeuse",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 783,
+    "step": 32,
+    "areas": [
+      "Vall\u00e9e de la Morh'Kitu"
+    ],
+    "race": "Koalaks mortels",
+    "mm_id": "612"
+  },
+  {
+    "db_id": 2568,
+    "name": "Germinol l'Indigent",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 668,
+    "step": 27,
+    "areas": [
+      "Labyrinthe du Minotoror"
+    ],
+    "race": "Minos",
+    "mm_id": "494"
+  },
+  {
+    "db_id": 2569,
+    "name": "Guerumoth le Collant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1054,
+    "step": 32,
+    "areas": [
+      "Village des Zoths",
+      "Village de la Canop\u00e9e"
+    ],
+    "race": "Zoths",
+    "mm_id": "601"
+  },
+  {
+    "db_id": 2570,
+    "name": "Kaskapointhe la Couverte",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1044,
+    "step": 33,
+    "areas": [
+      "Tronc de l'arbre Hakam",
+      "Feuillage de l'arbre Hakam"
+    ],
+    "race": "Peuple de l'Arbre",
+    "mm_id": "617"
+  },
+  {
+    "db_id": 2571,
+    "name": "Kido l'\u00c2tre",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1069,
+    "step": 30,
+    "areas": [
+      "Plaines herbeuses"
+    ],
+    "race": "Herboricoles",
+    "mm_id": "564"
+  },
+  {
+    "db_id": 2572,
+    "name": "Kilimanj'haro le Grimpeur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1070,
+    "step": 30,
+    "areas": [
+      "Plaines herbeuses"
+    ],
+    "race": "Herboricoles",
+    "mm_id": "565"
+  },
+  {
+    "db_id": 2573,
+    "name": "Kokt\u00e8le le Secou\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 209,
+    "step": 26,
+    "areas": [
+      "Plage de la Tortue",
+      "\u00cele des naufrag\u00e9s"
+    ],
+    "race": "Palmikos",
+    "mm_id": "489"
+  },
+  {
+    "db_id": 2574,
+    "name": "Larvonika l'Instrument",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 31,
+    "step": 20,
+    "areas": [
+      "Port de Madrestam",
+      "Bord de la for\u00eat mal\u00e9fique",
+      "C\u00f4te d'Asse",
+      "Prairies d'Astrub",
+      "Rivi\u00e8re Kawaii"
+    ],
+    "race": "Larves",
+    "mm_id": "365"
+  },
+  {
+    "db_id": 2575,
+    "name": "Ouashouash l'Exub\u00e9rant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1096,
+    "step": 27,
+    "areas": [
+      "Tourbi\u00e8re sans fond",
+      "Tourbi\u00e8re naus\u00e9abonde"
+    ],
+    "race": "Monstres des Tourbi\u00e8res",
+    "mm_id": "498"
+  },
+  {
+    "db_id": 2577,
+    "name": "Meuroup le Pr\u00eatre",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1046,
+    "step": 31,
+    "areas": [
+      "Tronc de l'arbre Hakam"
+    ],
+    "race": "Peuple de l'Arbre",
+    "mm_id": "585"
+  },
+  {
+    "db_id": 2578,
+    "name": "Don Kizoth l'Obstin\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1052,
+    "step": 33,
+    "areas": [
+      "Village des Zoths",
+      "Village de la Canop\u00e9e"
+    ],
+    "race": "Zoths",
+    "mm_id": "620"
+  },
+  {
+    "db_id": 2579,
+    "name": "Nerdeubeu le Flagellant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1074,
+    "step": 29,
+    "areas": [
+      "Jungle obscure"
+    ],
+    "race": "Florifaune obscure",
+    "mm_id": "551"
+  },
+  {
+    "db_id": 2580,
+    "name": "Mufguedin le Supr\u00eame",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1068,
+    "step": 30,
+    "areas": [
+      "Plaines herbeuses"
+    ],
+    "race": "Herboricoles",
+    "mm_id": "561"
+  },
+  {
+    "db_id": 2581,
+    "name": "Palmbytch la Bronz\u00e9e",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1064,
+    "step": 28,
+    "areas": [
+      "Plage de Corail"
+    ],
+    "race": "Colonie du Magistral",
+    "mm_id": "515"
+  },
+  {
+    "db_id": 2582,
+    "name": "Palmito le Menteur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1065,
+    "step": 27,
+    "areas": [
+      "Plage de Corail"
+    ],
+    "race": "Colonie du Magistral",
+    "mm_id": "499"
+  },
+  {
+    "db_id": 2583,
+    "name": "Palmiche le Serein",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1067,
+    "step": 27,
+    "areas": [
+      "Plage de Corail"
+    ],
+    "race": "Colonie du Magistral",
+    "mm_id": "500"
+  },
+  {
+    "db_id": 2584,
+    "name": "Palmiflette le Convivial",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1066,
+    "step": 27,
+    "areas": [
+      "Plage de Corail"
+    ],
+    "race": "Colonie du Magistral",
+    "mm_id": "501"
+  },
+  {
+    "db_id": 2585,
+    "name": "Osuxion le Vampirique",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 392,
+    "step": 26,
+    "areas": [
+      "Village des Dopeuls",
+      "Mine des Dopeuls"
+    ],
+    "race": "Dopeuls",
+    "mm_id": "487"
+  },
+  {
+    "db_id": 2587,
+    "name": "Seripoth l'Ennemi",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1056,
+    "step": 33,
+    "areas": [
+      "Village des Zoths",
+      "Village de la Canop\u00e9e"
+    ],
+    "race": "Zoths",
+    "mm_id": "616"
+  },
+  {
+    "db_id": 2588,
+    "name": "Sparoket le Lanceur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1048,
+    "step": 29,
+    "areas": [
+      "Arche d'Otoma\u00ef"
+    ],
+    "race": "Pirates de l'Arche d'Otoma\u00ef",
+    "mm_id": "544"
+  },
+  {
+    "db_id": 2589,
+    "name": "Ougaould le Parasite",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 3239,
+    "step": 28,
+    "areas": [
+      "Cimeti\u00e8re",
+      "Cimeti\u00e8re des H\u00e9ros",
+      "Cimeti\u00e8re des Tortur\u00e9s"
+    ],
+    "race": "Chafers",
+    "mm_id": "517"
+  },
+  {
+    "db_id": 2590,
+    "name": "Sarkastik l'Incompris",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 6203,
+    "step": 28,
+    "areas": [
+      "Akwadala"
+    ],
+    "race": "Kwapa",
+    "mm_id": "514"
+  },
+  {
+    "db_id": 2591,
+    "name": "Akaka le Souill\u00e9",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 6230,
+    "step": 28,
+    "areas": [
+      "Akwadala"
+    ],
+    "race": "Kwapa",
+    "mm_id": "530"
+  },
+  {
+    "db_id": 2592,
+    "name": "Koko la Violente",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 6229,
+    "step": 27,
+    "areas": [
+      "Akwadala"
+    ],
+    "race": "Kwapa",
+    "mm_id": "505"
+  },
+  {
+    "db_id": 2593,
+    "name": "Grenuche la Gentille",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 6323,
+    "step": 27,
+    "areas": [
+      "Plantala"
+    ],
+    "race": "Plantalas",
+    "mm_id": "509"
+  },
+  {
+    "db_id": 2597,
+    "name": "Tronquette la R\u00e9duite",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 6252,
+    "step": 34,
+    "areas": [
+      "Feudala"
+    ],
+    "race": "Firefoux",
+    "mm_id": "632"
+  },
+  {
+    "db_id": 2598,
+    "name": "Bonpake le Chavireur",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 6220,
+    "step": 30,
+    "areas": [
+      "Terrdala"
+    ],
+    "race": "Tanuki",
+    "mm_id": "563"
+  },
+  {
+    "db_id": 2600,
+    "name": "Champm\u00e9 le M\u00e9chant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1156,
+    "step": 33,
+    "areas": [
+      "Caverne des Fungus",
+      "Domaine des Fungus"
+    ],
+    "race": "Fungus",
+    "mm_id": "629"
+  },
+  {
+    "db_id": 2601,
+    "name": "Tromplamor le Survivant",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1153,
+    "step": 33,
+    "areas": [
+      "Domaine des Fungus"
+    ],
+    "race": "Fungus",
+    "mm_id": "623"
+  },
+  {
+    "db_id": 2614,
+    "name": "Roy le Merlin",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 1057,
+    "step": 34,
+    "areas": [
+      "Tourbi\u00e8re sans fond",
+      "Tourbi\u00e8re naus\u00e9abonde"
+    ],
+    "race": "Monstres des Tourbi\u00e8res",
+    "mm_id": "633"
+  },
+  {
+    "db_id": 2615,
+    "name": "Scaratyn l'Hu\u00eetre",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 830,
+    "step": 25,
+    "areas": [
+      "Labyrinthe du Minotoror"
+    ],
+    "race": "Minos",
+    "mm_id": "458"
+  },
+  {
+    "db_id": 2616,
+    "name": "Ouature la Mobile",
+    "isBoss": false,
+    "isArchi": true,
+    "mobBase": 495,
+    "step": 27,
+    "areas": [
+      "Cimeti\u00e8re d'Astrub"
+    ],
+    "race": "Monstres du repos",
+    "mm_id": "496"
+  },
+  {
+    "db_id": 3096,
+    "name": "Crowneille",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 3,
+    "areas": [
+      "D\u00e9solation de Sidimote",
+      "Laboratoire de Brumen Tinctorias"
+    ],
+    "race": "Sidimonstres",
+    "mm_id": "46"
+  },
+  {
+    "db_id": 3239,
+    "name": "Chafer Draugr",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 9,
+    "areas": [
+      "Cimeti\u00e8re",
+      "Cimeti\u00e8re des H\u00e9ros",
+      "Cimeti\u00e8re des Tortur\u00e9s",
+      "Donjon des Squelettes"
+    ],
+    "race": "Chafers",
+    "mm_id": "178"
+  },
+  {
+    "db_id": 3304,
+    "name": "Porsalu",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 9,
+    "areas": [
+      "Territoire des Porcos",
+      "Antre du Dragon Cochon",
+      "Labyrinthe du Dragon Cochon"
+    ],
+    "race": "Porcos",
+    "mm_id": "176"
+  },
+  {
+    "db_id": 3558,
+    "name": "Alhy\u00e8ne",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 12,
+    "areas": [
+      "Dents de Pierre",
+      "Village des Kanigs"
+    ],
+    "race": "Kanigs des Dents de Pierre",
+    "mm_id": "638"
+  },
+  {
+    "db_id": 3559,
+    "name": "F\u00e9lygi\u00e8ne",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 10,
+    "areas": [
+      "Dents de Pierre",
+      "Village des Kanigs",
+      "Grotte de Kanigroula"
+    ],
+    "race": "Kanigs des Dents de Pierre",
+    "mm_id": "77"
+  },
+  {
+    "db_id": 3560,
+    "name": "Panth\u00e8gros",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 12,
+    "areas": [
+      "Dents de Pierre",
+      "Village des Kanigs",
+      "Grotte de Kanigroula"
+    ],
+    "race": "Kanigs des Dents de Pierre",
+    "mm_id": "223"
+  },
+  {
+    "db_id": 3561,
+    "name": "Kaniblou",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 14,
+    "areas": [
+      "Dents de Pierre",
+      "Village des Kanigs",
+      "Grotte de Kanigroula"
+    ],
+    "race": "Kanigs des Dents de Pierre",
+    "mm_id": "276"
+  },
+  {
+    "db_id": 3562,
+    "name": "Orf\u00e9lin",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 12,
+    "areas": [
+      "Dents de Pierre",
+      "Village des Kanigs",
+      "Grotte de Kanigroula"
+    ],
+    "race": "Kanigs des Dents de Pierre",
+    "mm_id": "227"
+  },
+  {
+    "db_id": 3618,
+    "name": "Haute Truche",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 19,
+    "areas": [
+      "Voli\u00e8re de la Haute Truche"
+    ],
+    "race": "Truches",
+    "mm_id": "342"
+  },
+  {
+    "db_id": 4541,
+    "name": "M\u00e9gabwork",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 13,
+    "areas": [
+      "Pics de Cania"
+    ],
+    "race": "Bworks de Cania",
+    "mm_id": "247"
+  },
+  {
+    "db_id": 4542,
+    "name": "M\u00e9dibwork",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 13,
+    "areas": [
+      "Pics de Cania"
+    ],
+    "race": "Bworks de Cania",
+    "mm_id": "246"
+  },
+  {
+    "db_id": 4543,
+    "name": "Bizarbwork",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 13,
+    "areas": [
+      "Pics de Cania"
+    ],
+    "race": "Bworks de Cania",
+    "mm_id": "244"
+  },
+  {
+    "db_id": 4544,
+    "name": "Krambwork",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 13,
+    "areas": [
+      "Pics de Cania"
+    ],
+    "race": "Bworks de Cania",
+    "mm_id": "245"
+  },
+  {
+    "db_id": 4547,
+    "name": "Bourdard",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 12,
+    "areas": [
+      "Champs de Cania"
+    ],
+    "race": "Animaux des Champs",
+    "mm_id": "221"
+  },
+  {
+    "db_id": 4548,
+    "name": "Larve Champ\u00eatre",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 11,
+    "areas": [
+      "Champs de Cania"
+    ],
+    "race": "Animaux des Champs",
+    "mm_id": "220"
+  },
+  {
+    "db_id": 4558,
+    "name": "Robot Fl\u00e9au",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 14,
+    "areas": [
+      "Massif de Cania"
+    ],
+    "race": "Automates des Brigandins",
+    "mm_id": "275"
+  },
+  {
+    "db_id": 4559,
+    "name": "Malle Outill\u00e9e",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 14,
+    "areas": [
+      "Massif de Cania"
+    ],
+    "race": "Automates des Brigandins",
+    "mm_id": "274"
+  },
+  {
+    "db_id": 4560,
+    "name": "Robionicle",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 14,
+    "areas": [
+      "Massif de Cania"
+    ],
+    "race": "Automates des Brigandins",
+    "mm_id": "277"
+  },
+  {
+    "db_id": 4574,
+    "name": "Foufayteur",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 12,
+    "areas": [
+      "Routes Rocailleuses"
+    ],
+    "race": "Ruffians de Cania",
+    "mm_id": "222"
+  },
+  {
+    "db_id": 4575,
+    "name": "V\u00e9tauran",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 9,
+    "areas": [
+      "Routes Rocailleuses"
+    ],
+    "race": "Ruffians de Cania",
+    "mm_id": "177"
+  },
+  {
+    "db_id": 5225,
+    "name": "Larve Jaune",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 4,
+    "areas": [
+      "Port de Madrestam",
+      "C\u00f4te d'Asse",
+      "Prairies d'Astrub",
+      "Rivi\u00e8re Kawaii"
+    ],
+    "race": "Larves",
+    "mm_id": "62"
+  },
+  {
+    "db_id": 5804,
+    "name": "Dragac\u00e9",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 9,
+    "areas": [
+      "Sanctuaire des Dragoeufs",
+      "Antre de Crocabulia"
+    ],
+    "race": "Dragoeufs Protecteurs",
+    "mm_id": "179"
+  },
+  {
+    "db_id": 6203,
+    "name": "Sarkapwane",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 9,
+    "areas": [
+      "Akwadala",
+      "Vall\u00e9e de la Dame des eaux"
+    ],
+    "race": "Kwapa",
+    "mm_id": "168"
+  },
+  {
+    "db_id": 6212,
+    "name": "Hanshi",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 18,
+    "areas": [
+      "Dojo du Vent"
+    ],
+    "race": "Kozaru",
+    "mm_id": "336"
+  },
+  {
+    "db_id": 6214,
+    "name": "Ino-Naru",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 9,
+    "areas": [
+      "Contr\u00e9es oniriques",
+      "Aerdala",
+      "Dojo du Vent"
+    ],
+    "race": "Kozaru",
+    "mm_id": "229"
+  },
+  {
+    "db_id": 6215,
+    "name": "Kurookin",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 11,
+    "areas": [
+      "Aerdala",
+      "Dojo du Vent"
+    ],
+    "race": "Kozaru",
+    "mm_id": "241"
+  },
+  {
+    "db_id": 6216,
+    "name": "Fangshu",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 8,
+    "areas": [
+      "Aerdala",
+      "Dojo du Vent"
+    ],
+    "race": "Kozaru",
+    "mm_id": "268"
+  },
+  {
+    "db_id": 6217,
+    "name": "Lichangoro",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 15,
+    "areas": [
+      "Aerdala",
+      "Dojo du Vent"
+    ],
+    "race": "Kozaru",
+    "mm_id": "226"
+  },
+  {
+    "db_id": 6218,
+    "name": "Tanukou\u00ef San",
+    "isBoss": true,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 18,
+    "areas": [
+      "Atelier du Tanukou\u00ef San"
+    ],
+    "race": "Tanuki",
+    "mm_id": "322"
+  },
+  {
+    "db_id": 6220,
+    "name": "Ishigro Pake",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 5,
+    "areas": [
+      "Terrdala",
+      "Atelier du Tanukou\u00ef San"
+    ],
+    "race": "Tanuki",
+    "mm_id": "217"
+  },
+  {
+    "db_id": 6221,
+    "name": "T\u00e9tonuki",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 14,
+    "areas": [
+      "Terrdala",
+      "Atelier du Tanukou\u00ef San"
+    ],
+    "race": "Tanuki",
+    "mm_id": "231"
+  },
+  {
+    "db_id": 6222,
+    "name": "Parashukou\u00ef",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 12,
+    "areas": [
+      "Terrdala",
+      "Atelier du Tanukou\u00ef San"
+    ],
+    "race": "Tanuki",
+    "mm_id": "180"
+  },
+  {
+    "db_id": 6223,
+    "name": "Lolojiki",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 10,
+    "areas": [
+      "Terrdala",
+      "Atelier du Tanukou\u00ef San"
+    ],
+    "race": "Tanuki",
+    "mm_id": "186"
+  },
+  {
+    "db_id": 6229,
+    "name": "Kokom",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 12,
+    "areas": [
+      "Akwadala",
+      "Vall\u00e9e de la Dame des eaux"
+    ],
+    "race": "Kwapa",
+    "mm_id": "159"
+  },
+  {
+    "db_id": 6230,
+    "name": "Akakwa",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 7,
+    "areas": [
+      "Contr\u00e9es oniriques",
+      "Akwadala",
+      "Vall\u00e9e de la Dame des eaux"
+    ],
+    "race": "Kwapa",
+    "mm_id": "185"
+  },
+  {
+    "db_id": 6231,
+    "name": "Betto",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 10,
+    "areas": [
+      "Akwadala",
+      "Vall\u00e9e de la Dame des eaux"
+    ],
+    "race": "Kwapa",
+    "mm_id": "183"
+  },
+  {
+    "db_id": 6251,
+    "name": "Crachefoux",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 9,
+    "areas": [
+      "Feudala",
+      "Fabrique de foux d'artifice"
+    ],
+    "race": "Firefoux",
+    "mm_id": "285"
+  },
+  {
+    "db_id": 6252,
+    "name": "Rouquette",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 14,
+    "areas": [
+      "Feudala",
+      "Fabrique de foux d'artifice"
+    ],
+    "race": "Firefoux",
+    "mm_id": "295"
+  },
+  {
+    "db_id": 6253,
+    "name": "Boumbardier",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 14,
+    "areas": [
+      "Feudala",
+      "Fabrique de foux d'artifice"
+    ],
+    "race": "Firefoux",
+    "mm_id": "270"
+  },
+  {
+    "db_id": 6254,
+    "name": "P\u00e9tartifoux",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 15,
+    "areas": [
+      "Feudala",
+      "Fabrique de foux d'artifice"
+    ],
+    "race": "Firefoux",
+    "mm_id": "267"
+  },
+  {
+    "db_id": 6255,
+    "name": "Founamboul",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 19,
+    "areas": [
+      "Fabrique de foux d'artifice"
+    ],
+    "race": "Firefoux",
+    "mm_id": "348"
+  },
+  {
+    "db_id": 6318,
+    "name": "Bambouto",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 4,
+    "areas": [
+      "Plantala",
+      "Bambusaie de Damadrya"
+    ],
+    "race": "Plantalas",
+    "mm_id": "70"
+  },
+  {
+    "db_id": 6320,
+    "name": "Floristile",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 4,
+    "areas": [
+      "Contr\u00e9es oniriques",
+      "Plantala",
+      "Bambusaie de Damadrya"
+    ],
+    "race": "Plantalas",
+    "mm_id": "128"
+  },
+  {
+    "db_id": 6321,
+    "name": "Bulbuisson",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 7,
+    "areas": [
+      "Plantala",
+      "Bambusaie de Damadrya"
+    ],
+    "race": "Plantalas",
+    "mm_id": "126"
+  },
+  {
+    "db_id": 6323,
+    "name": "Grenufar",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 13,
+    "areas": [
+      "Plantala",
+      "Bambusaie de Damadrya"
+    ],
+    "race": "Plantalas",
+    "mm_id": "163"
+  },
+  {
+    "db_id": 6383,
+    "name": "Tsukinochi",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 15,
+    "areas": [
+      "Cimeti\u00e8re de Grobe",
+      "Tombe du Shogun Tofugawa"
+    ],
+    "race": "Arm\u00e9e de brume",
+    "mm_id": "288"
+  },
+  {
+    "db_id": 6384,
+    "name": "Tamboura\u00ef",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 15,
+    "areas": [
+      "Cimeti\u00e8re de Grobe",
+      "Tombe du Shogun Tofugawa"
+    ],
+    "race": "Arm\u00e9e de brume",
+    "mm_id": "289"
+  },
+  {
+    "db_id": 6385,
+    "name": "Onabu-Geisha",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 15,
+    "areas": [
+      "Cimeti\u00e8re de Grobe",
+      "Tombe du Shogun Tofugawa"
+    ],
+    "race": "Arm\u00e9e de brume",
+    "mm_id": "293"
+  },
+  {
+    "db_id": 6386,
+    "name": "Jiangshi-Nobi",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 15,
+    "areas": [
+      "Cimeti\u00e8re de Grobe",
+      "Tombe du Shogun Tofugawa"
+    ],
+    "race": "Arm\u00e9e de brume",
+    "mm_id": "294"
+  },
+  {
+    "db_id": 6389,
+    "name": "Madura",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 15,
+    "areas": [
+      "Demeure des Esprits",
+      "Mont des Tombeaux"
+    ],
+    "race": "Yokai des Tombeaux",
+    "mm_id": "297"
+  },
+  {
+    "db_id": 6390,
+    "name": "Bakazako",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 15,
+    "areas": [
+      "Demeure des Esprits",
+      "Mont des Tombeaux"
+    ],
+    "race": "Yokai des Tombeaux",
+    "mm_id": "298"
+  },
+  {
+    "db_id": 6391,
+    "name": "Kaonashi",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 16,
+    "areas": [
+      "Demeure des Esprits",
+      "Mont des Tombeaux"
+    ],
+    "race": "Yokai des Tombeaux",
+    "mm_id": "299"
+  },
+  {
+    "db_id": 6392,
+    "name": "Tsume-bozu",
+    "isBoss": false,
+    "isArchi": false,
+    "mobBase": null,
+    "step": 16,
+    "areas": [
+      "Demeure des Esprits",
+      "Mont des Tombeaux"
+    ],
+    "race": "Yokai des Tombeaux",
+    "mm_id": "300"
+  }
+]
